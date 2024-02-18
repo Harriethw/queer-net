@@ -30,8 +30,16 @@ main {
 
 .header {
   position: fixed;
+  display: flex;
+  flex-direction: row;
   h1 {
     letter-spacing: 1rem;
+    padding: 0em 1em;
+  }
+
+  .header__brackets {
+   color: rgb(178 93 255) ;
+   font-size: 4rem;
   }
 }
 
