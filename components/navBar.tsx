@@ -4,8 +4,8 @@ import Link from "next/link";
 const Navbar = () => {
   return (
     <>
-      <div>
-        <ul>
+      <div className="navBar">
+        <ul className="navBar__links">
           <li>
             <Link href="/">
               <p>Events</p>
@@ -13,17 +13,12 @@ const Navbar = () => {
           </li>
           <li>
             <Link href="/about">
-              <p>About Us</p>
+              <p>About</p>
             </Link>
           </li>
           <li>
             <Link href="/rources">
               <p>Resources</p>
-            </Link>
-          </li>
-          <li>
-            <Link href="/contacts">
-              <p>Contacts</p>
             </Link>
           </li>
         </ul>

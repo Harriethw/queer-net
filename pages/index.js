@@ -10,11 +10,12 @@ export default class Home extends Component {
         <Head>
           <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         </Head>
-
         <article>
-          <h1>{title}</h1>
-          <HomeContent />
-          <ul>
+          <h2 className="home__content">
+            <HomeContent />
+          </h2>
+
+          <ul className="home__list">
             {news.map((piece, k) => (
               <li key={k}>
                 <h2>{piece.name}</h2>
@@ -22,6 +23,12 @@ export default class Home extends Component {
                 {piece.link && (
                   <p>
                     <a href={piece.link}>Find out more</a>
+                    <span
+                      className="home__list--decoration"
+                      aria-label="hidden"
+                    >
+                      &#8592;
+                    </span>
                   </p>
                 )}
               </li>

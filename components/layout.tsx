@@ -1,10 +1,14 @@
-import Navbar from './navBar'
+import Header from "./header";
+import Navbar from "./navBar";
 
 export default function Layout({ children }) {
   return (
     <>
-      <Navbar />
-      <main>{children}</main>
+      <div className="wrapper">
+        <Header />
+        <main>{children}</main>
+        <Navbar />
+      </div>
     </>
-  )
+  );
 }
