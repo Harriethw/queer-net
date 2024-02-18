@@ -8,7 +8,7 @@ export default class About extends Component {
     return (
       <>
         <article>
-          <h1>About</h1>
+          <h2>About</h2>
           <AboutContent />
         </article>
       </>
