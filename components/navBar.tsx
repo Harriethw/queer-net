@@ -8,7 +8,7 @@ const Navbar = () => {
         <ul>
           <li>
             <Link href="/">
-              <p>Queer-net</p>
+              <p>Events</p>
             </Link>
           </li>
           <li>
