@@ -20,4 +20,4 @@ news:
     description: dgdfgg
     link: dfgfgfg
 ---
-A collective based in Bristol, UK, interested in building, subverting and hacking technology.
+A queer collective based in Bristol, UK, interested in building, subverting and hacking technology.
