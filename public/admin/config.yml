@@ -20,7 +20,7 @@ collections:
           fields:
             - { label: "Name", name: "name", widget: "string"}
             - { label: "Description", name: "description", widget: "text"}
-            - { label: "Link", name: "link", widget: "text"}
+            - { label: "Link", name: "link", widget: "text", required: "false"}
     - label: "About"
       name: "about"
       file: "content/about.md"
