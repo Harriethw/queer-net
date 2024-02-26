@@ -52,9 +52,15 @@ collections:
     name: "blog"
     folder: "_posts/blog"
     create: true
+    slug: "{{title}}-{{year}}"
     identifier_field: name
     fields:
-      - {label: "Name", name: "name", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - {
+          label: "Featured Image",
+          name: "thumbnail",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
