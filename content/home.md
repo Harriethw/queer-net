@@ -7,6 +7,7 @@ news:
       at the Watershed's PM Studio, find out more here.
     name: Next event! Drag the Machine, 19th March 2024
     link: https://www.headfirstbristol.co.uk/#home
+    thumbnail: img/qtb_june.png
   - description: Our next reading group is on 11th April, please join us.
     name: Next Future Speculations Reading Group, 11th April 2024
     link: gdgfdg
@@ -16,6 +17,7 @@ news:
       community we'd love to hear from you.
     name: Join our 2024 workshop cohort
     link: https://www.headfirstbristol.co.uk/#home
+    thumbnail: img/canwebsite-_credit_control-shift_7.jpg
   - name: ggfg
     description: dgdfgg
     link: dfgfgfg
