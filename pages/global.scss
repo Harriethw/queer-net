@@ -131,6 +131,15 @@ main {
   }
 }
 
+.image--hero {
+  padding: 2em 0em 2em;
+  max-width: 100%;
+  border-top-right-radius: 20em;
+  border-top-left-radius: 0em;
+  border-bottom-left-radius: 0em;
+  border-bottom-right-radius: 0em;
+}
+
 /* smartphones etc. (600px and up) */
 @media (max-width: 600px) {
   main {
@@ -150,7 +159,7 @@ main {
     }
   }
 
-  .home__thumbnail { 
+  .home__thumbnail {
     display: none;
   }
 
@@ -162,10 +171,8 @@ main {
   }
 }
 
-
 /* Largest devices such as desktops (1280px and up) */
 @media only screen and (min-width: 80em) {
-
   .wrapper {
     max-width: 50vw;
   }
