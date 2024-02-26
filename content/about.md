@@ -3,12 +3,16 @@ title: About
 date: 2019-03-17T19:31:20.591Z
 image: img/hackers1995.77197.jpg
 ---
-A collective based in Bristol, UK, interested in building, subverting and hacking technology.
+A queer collective based in Bristol, UK, interested in building, subverting and hacking technology.
 
-We are Francesco, Katy and Harriet
+We are Francesco, Katy and Harriet. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Francesco Bentivegna (they/them) is an AI-voice artist and Lecturer in Digital Theatre at the University of Bristol. 
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Katy Dadacz (they/them) is a Comparative Literature PhD researcher at the University of Bristol, exploring the glitch and intimacies interwoven in our experiences of digital infrastructures (in film, memes, speculative fiction, tv shows, poetry and art). 
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Harriet Horobin-Worley (they/them) is a creative software engineer and artist- making interactive art, tools and app inspired by low tech solutions. 
+
+VALUE STATEMENT 
+
+GLOSSARY
