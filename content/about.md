@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2019-03-17T19:31:20.591Z
-image: img/hackers1995.77197.jpg
+image: img/gg-qwilwqaaj3r0.jpg
 ---
 A queer collective based in Bristol, UK, interested in building, subverting and hacking technology.
 
