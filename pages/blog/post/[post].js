@@ -14,15 +14,11 @@ export const getStaticPaths = () => {
 };
 
 export const getStaticProps = async ({ params }) => {
-  console.log("here in posts");
-
-  console.log("post", params.post);
   const blogPost = await import(
     `../../../content/posts/blog/${params.post}`
   ).catch((error) => {
     console.log(error);
   });
-  console.log("blog", blogPost.attributes);
 
   return {
     props: { attributes: blogPost.attributes, fileName: params.post },
@@ -55,7 +51,7 @@ class Post extends Component {
       <>
         <article>
           <h1>{title}</h1>
-          <img src={thumbnail} />
+          {thumbnail && <img className="image--hero" src={thumbnail}></img>}
           <PostBody />
         </article>
         <style jsx>{`
