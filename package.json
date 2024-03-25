@@ -8,7 +8,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "start-heroku": "next start -p $PORT",
+    "start-heroku": "npm run build && npx serve@latest out",
     "export": "npm run build && next export"
   },
   "keywords": [],
