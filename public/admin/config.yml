@@ -1,5 +1,5 @@
 backend:
-  name: [github | gitlab]
+  name: github
   repo: https://github.com/Harriethw/queer-net # Path to your Github/Gitlab repository
   branch: main # Branch to update
   base_url: http://cms-test-640cec13ec4d.herokuapp.com # Path to ext auth provider
