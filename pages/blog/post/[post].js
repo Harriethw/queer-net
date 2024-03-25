@@ -27,7 +27,8 @@ export const getStaticProps = async ({ params }) => {
 
 class Post extends Component {
   render() {
-    console.log("props are", this.props);
+    if (!this.props.attributes) return <div>hello</div>;
+
     const {
       attributes: { thumbnail, title },
       fileName,
@@ -42,10 +43,6 @@ class Post extends Component {
         ssr: false,
       }
     );
-
-    if (!this.props.attributes) return <div>hello</div>;
-
-    console.log("body here is", PostBody);
 
     return (
       <>

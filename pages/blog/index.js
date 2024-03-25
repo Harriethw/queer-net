@@ -6,19 +6,13 @@ import path from "path";
 
 export const BLOG_POSTS_PATH = path.join(process.cwd(), "content/posts/blog");
 
-let postCache;
-
 export function fetchPostContent() {
-  if (postCache) {
-    return postCache;
-  }
   // Get file names under /posts
   const fileNames = fs.readdirSync(BLOG_POSTS_PATH);
-  console.log(fileNames);
+
   const allPostsData = fileNames
     .filter((it) => it.endsWith(".md"))
     .map((fileName) => {
-      console.log("filename", fileName);
       // // Read markdown file as string
       // const fullPath = path.join(postsDirectory, fileName);
       // const fileContents = fs.readFileSync(fullPath, "utf8");
