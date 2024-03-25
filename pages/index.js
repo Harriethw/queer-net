@@ -7,9 +7,6 @@ export default class Home extends Component {
     let { title, news } = attributes;
     return (
       <>
-        <Head>
-          <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        </Head>
         <article>
           <h2 className="home__content">
             <HomeContent />
@@ -36,7 +33,7 @@ export default class Home extends Component {
                 {piece.thumbnail && (
                   <div className="home__thumbnail">
                     <a href={piece.link}>
-                    <img src={piece.thumbnail}></img>
+                      <img src={piece.thumbnail}></img>
                     </a>
                   </div>
                 )}
