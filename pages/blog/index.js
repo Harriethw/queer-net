@@ -10,40 +10,8 @@ export function fetchPostContent() {
   // Get file names under /posts
   const fileNames = fs.readdirSync(BLOG_POSTS_PATH);
 
-  const allPostsData = fileNames
-    .filter((it) => it.endsWith(".md"))
-    .map((fileName) => {
-      // // Read markdown file as string
-      // const fullPath = path.join(postsDirectory, fileName);
-      // const fileContents = fs.readFileSync(fullPath, "utf8");
+  const allPostsData = fileNames.filter((it) => it.endsWith(".md"));
 
-      // // Use gray-matter to parse the post metadata section
-      // const matterResult = matter(fileContents, {
-      //   engines: {
-      //     yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }) as object,
-      //   },
-      // });
-      // const matterData = matterResult.data as {
-      //   date: string;
-      //   title: string;
-      //   tags: string[];
-      //   slug: string;
-      //   fullPath: string,
-      // };
-      // matterData.fullPath = fullPath;
-
-      // const slug = fileName.replace(/\.mdx$/, "");
-
-      // // Validate slug string
-      // if (matterData.slug !== slug) {
-      //   throw new Error(
-      //     "slug field not match with the path of its content source"
-      //   );
-      // }
-
-      // return matterData;
-      return fileName;
-    });
   // Sort posts by date
   //   postCache = allPostsData.sort((a, b) => {
   //     if (a.date < b.date) {

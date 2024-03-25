@@ -1,12 +1,9 @@
 import React, { Component } from "react";
-import { BLOG_POSTS_PATH, fetchPostContent } from "..";
+import { fetchPostContent } from "..";
 import dynamic from "next/dynamic";
 
 export const getStaticPaths = () => {
-  const paths = fetchPostContent().map((fileName) => {
-    return `/blog/post/${fileName}`;
-  });
-  console.log("paths", paths);
+  const paths = fetchPostContent().map((fileName) => `/blog/post/${fileName}`);
   return {
     paths,
     fallback: false,
