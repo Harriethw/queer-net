@@ -13,6 +13,6 @@ Katy Dadacz (they/them) is a Comparative Literature PhD researcher at the Univer
 
 Harriet Horobin-Worley (they/them) is a creative software engineer and artist- making interactive art, tools and app inspired by low tech solutions. 
 
-VALUE STATEMENT 
+VALUE STATEMENT //
 
 GLOSSARY
