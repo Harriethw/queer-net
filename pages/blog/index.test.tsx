@@ -1,6 +1,6 @@
 import "@testing-library/jest-dom";
 import { render, screen } from "@testing-library/react";
-import Blog, { BlogPostUi, getStaticProps } from ".";
+import Blog, { BlogPostUi, getStaticProps } from "./index.page";
 
 jest.mock(
   "../../content/posts/blog/blog-name.md",

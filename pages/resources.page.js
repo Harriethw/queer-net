@@ -1,10 +1,8 @@
 import { Component } from "react";
-import { react as ResourcesContent } from '../content/resources.md'
-
+import { react as ResourcesContent } from "../content/resources.md";
 
 export default class Resources extends Component {
   render() {
-    
     return (
       <>
         <article>
@@ -12,6 +10,6 @@ export default class Resources extends Component {
           <ResourcesContent />
         </article>
       </>
-    )
+    );
   }
 }

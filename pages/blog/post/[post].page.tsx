@@ -3,7 +3,7 @@ import {
   fetchPostAttributesWithFileName,
   fetchPostFileNames,
   BlogPostUi,
-} from "..";
+} from "../index.page";
 import dynamic from "next/dynamic";
 
 export const getStaticPaths = () => {

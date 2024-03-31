@@ -5,7 +5,7 @@ module.exports = {
       loader: "frontmatter-markdown-loader",
       options: { mode: ["react-component"] },
     });
-    config.module.rules.push({
+    cfg.module.rules.push({
       test: /\.test\.tsx?$/,
       use: "ignore-loader",
     });
@@ -14,4 +14,5 @@ module.exports = {
   },
   output: "export",
   trailingSlash: true,
+  pageExtensions: ["page.tsx", "page.ts", "page.jsx", "page.js", ".scss"],
 };
