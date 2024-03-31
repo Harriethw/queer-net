@@ -5,6 +5,10 @@ module.exports = {
       loader: "frontmatter-markdown-loader",
       options: { mode: ["react-component"] },
     });
+    config.module.rules.push({
+      test: /\.test\.tsx?$/,
+      use: "ignore-loader",
+    });
     cfg.resolve.fallback = { fs: false };
     return cfg;
   },
