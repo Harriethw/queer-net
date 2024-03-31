@@ -3,9 +3,11 @@ body {
   padding: 1em 1em;
   margin: 0;
   font-family: "Courier New", Courier, monospace;
+  justify-content: center;
 }
 
 a {
+  letter-spacing: 0.1em;
   text-underline-offset: 0.5em;
   color: rgb(178, 93, 255);
   line-height: 2em;
@@ -23,7 +25,7 @@ main {
 }
 
 .wrapper {
-  max-width: 70vw;
+  max-width: 60vw;
   display: flex;
   flex-direction: column;
 }
@@ -142,8 +144,15 @@ main {
 
 .blog__list {
   display: flex;
+  a {
+    text-decoration: dashed;
+  }
   h2 {
-    color: green($color: #000000);
+    color: rgb(82, 76, 76);
+
+    &:hover {
+      color: rgb(245, 168, 3);
+    }
   }
   ul {
     padding: 0;
@@ -198,6 +207,6 @@ main {
 /* Largest devices such as desktops (1280px and up) */
 @media only screen and (min-width: 80em) {
   .wrapper {
-    max-width: 50vw;
+    max-width: 40vw;
   }
 }

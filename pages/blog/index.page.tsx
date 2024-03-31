@@ -62,7 +62,7 @@ export function Blog({ posts }: BlogProps) {
             <li key={post.fileName}>
               <Link href={`blog/post/${post.fileName}`}>
                 <h2>
-                  <span aria-hidden="true">#</span> {post.title}
+                  <span aria-hidden="true">~</span> {post.title}
                 </h2>
               </Link>
               {post.previewText && (
