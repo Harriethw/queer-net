@@ -142,6 +142,10 @@ main {
   border-bottom-right-radius: 0em;
 }
 
+.image--full {
+  max-width: 100%;
+}
+
 .blog__list {
   display: flex;
   a {
