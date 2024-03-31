@@ -10,6 +10,7 @@ type BlogPostAttributes = {
   title: string;
   date: string;
   thumbnail?: string;
+  previewText?: string;
 };
 
 export type BlogPostUi = BlogPostAttributes & {
@@ -54,14 +55,30 @@ export const getStaticProps = async () => {
 
 export function Blog({ posts }: BlogProps) {
   return (
-    <div className="blog__list" data-testid="blog-list">
-      {posts.map((post) => {
-        return (
-          <Link href={`blog/post/${post.fileName}`} key={post.fileName}>
-            <h2>{post.title}</h2>
-          </Link>
-        );
-      })}
+    <div className="blog__list">
+      <ul data-testid="blog-list">
+        {posts.map((post) => {
+          return (
+            <li key={post.fileName}>
+              <Link href={`blog/post/${post.fileName}`}>
+                <h2>
+                  <span aria-hidden="true">#</span> {post.title}
+                </h2>
+              </Link>
+              {post.previewText && (
+                <p>
+                  {post.previewText}{" "}
+                  <span>
+                    <Link href={`blog/post/${post.fileName}`}>
+                      Read more...
+                    </Link>
+                  </span>
+                </p>
+              )}
+            </li>
+          );
+        })}
+      </ul>
     </div>
   );
 }

@@ -6,8 +6,9 @@ body {
 }
 
 a {
-  text-underline-offset: 8px;
-  color: rgb(178 93 255);
+  text-underline-offset: 0.5em;
+  color: rgb(178, 93, 255);
+  line-height: 2em;
 
   &:hover {
     color: rgb(245, 168, 3);
@@ -137,6 +138,20 @@ main {
   border-top-left-radius: 0em;
   border-bottom-left-radius: 0em;
   border-bottom-right-radius: 0em;
+}
+
+.blog__list {
+  display: flex;
+  h2 {
+    color: green($color: #000000);
+  }
+  ul {
+    padding: 0;
+  }
+  li {
+    list-style-type: none;
+    padding-bottom: 1.5em;
+  }
 }
 
 /* smartphones etc. (600px and up) */

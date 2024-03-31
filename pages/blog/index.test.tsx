@@ -28,6 +28,7 @@ describe("Blog", () => {
         fileName: "hello-world-blog.md",
         thumbnail: "/image.jpg",
         date: "2024-02-31T17:25:54.102Z",
+        previewText: "preview text for the blog",
       },
       {
         title: "yet another blog",
@@ -37,13 +38,17 @@ describe("Blog", () => {
     ];
     render(<Blog posts={exampleBlogs} />);
 
-    const links = screen.getByTestId("blog-list");
+    const posts = screen.getByTestId("blog-list");
 
-    expect(links.firstChild).toHaveAttribute(
+    const firstPost = posts.firstChild;
+    const lastPost = posts.lastChild;
+
+    expect(firstPost.firstChild).toHaveAttribute(
       "href",
       "blog/post/hello-world-blog.md"
     );
-    expect(links.lastChild).toHaveAttribute(
+    expect(firstPost.textContent).toContain("preview text for the blog");
+    expect(lastPost.lastChild).toHaveAttribute(
       "href",
       "blog/post/yet-another-blog.md"
     );
