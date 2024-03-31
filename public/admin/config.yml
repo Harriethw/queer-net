@@ -64,4 +64,10 @@ collections:
           widget: "image",
           required: false,
         }
+      - {
+          label: "Preview Text",
+          name: "previewText",
+          widget: "text",
+          required: false,
+        }
       - { label: "Body", name: "body", widget: "markdown" }
