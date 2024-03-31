@@ -8,21 +8,21 @@ export default class Home extends Component {
     return (
       <>
         <article>
-          <h2 className="home__content">
+          <h2 className="events__content">
             <HomeContent />
           </h2>
 
-          <ul className="home__list">
+          <ul className="events__list">
             {news.map((piece, k) => (
               <li key={k}>
-                <div className="home__box">
+                <div className="events__box">
                   <h2>{piece.name}</h2>
                   <p>{piece.description}</p>
                   {piece.link && (
                     <p>
                       <a href={piece.link}>Find out more</a>
                       <span
-                        className="home__list--decoration"
+                        className="events__list--decoration"
                         aria-label="hidden"
                       >
                         &#8592;
@@ -31,7 +31,7 @@ export default class Home extends Component {
                   )}
                 </div>
                 {piece.thumbnail && (
-                  <div className="home__thumbnail">
+                  <div className="events__thumbnail">
                     <a href={piece.link}>
                       <img src={piece.thumbnail}></img>
                     </a>
