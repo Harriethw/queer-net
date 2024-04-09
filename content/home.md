@@ -19,7 +19,7 @@ news:
       programmer, educator or citizen interested in building a queer tech
       community we'd love to hear from you.
     name: "Join our 2024 workshop cohort for Queering AI "
-    link: ""
+    link: https://machine-streams-53baa3f150ba.herokuapp.com/admin/#/collections/blog/entries/call-for-participants-queering-ai-workshop-series
     thumbnail: img/canwebsite-_credit_control-shift_7.jpg
   - name: ggfg
     description: dgdfgg
