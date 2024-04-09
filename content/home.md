@@ -28,5 +28,10 @@ news:
     description: " Queer Tech and the reading group came together for a lovely
       evening to discuss two incredible texts; Hacker Manifesto McKenzie Wark &
       The Real World of Technology Ursula Franklin"
+  - name: Creating Queer Values in Community Tech 30/1/24
+    description: "A space to share our experiences in queer spaces,
+      university/institutional spaces, tech spaces to create values for machine
+      streams. This value creation was an interpretation of Dr Max Liboiron and
+      the CLEAR Labs value creation and consensus making practice. "
 ---
 A queer collective based in Bristol, UK, interested in building, subverting and hacking technology.
