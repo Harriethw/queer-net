@@ -8,15 +8,18 @@ news:
     name: Next event! Drag the Machine, 19th March 2024
     link: https://www.headfirstbristol.co.uk/#home
     thumbnail: img/qtb_june.png
-  - description: Our next reading group is on 11th April, please join us.
-    name: Next Future Speculations Reading Group, 11th April 2024
-    link: gdgfdg
+  - description: We will be discussing Neptune Frost directed by Saul Williams and
+      Anisia Uzeyman at the Pervasive Media Studio. We will also be screening
+      this at the Department of Film, University of Bristol on 15th at 6pm. More
+      information, please email katy.dadacz@bristol.ac.uk
+    name: Next Future Speculations Reading Group, 16th April 2024, 6pm
+    link: ""
   - description: We're running a series of 4 artist's workshops in 2024 and are
       looking to recruit a pool of paid attendees. If you're an artist,
       programmer, educator or citizen interested in building a queer tech
       community we'd love to hear from you.
-    name: Join our 2024 workshop cohort
-    link: https://www.headfirstbristol.co.uk/#home
+    name: "Join our 2024 workshop cohort for Queering AI "
+    link: ""
     thumbnail: img/canwebsite-_credit_control-shift_7.jpg
   - name: ggfg
     description: dgdfgg
