@@ -24,7 +24,9 @@ news:
   - name: "Queer Tech "
     description: dgdfgg
     link: dfgfgfg
-  - name: "Past Events "
-    description: "Check out our past events since we began collaborating last year! "
+  - name: Queer Tech Meet Up X Future Speculations Reading Group 19/09/23
+    description: " Queer Tech and the reading group came together for a lovely
+      evening to discuss two incredible texts; Hacker Manifesto McKenzie Wark &
+      The Real World of Technology Ursula Franklin"
 ---
 A queer collective based in Bristol, UK, interested in building, subverting and hacking technology.
