@@ -21,8 +21,10 @@ news:
     name: "Join our 2024 workshop cohort for Queering AI "
     link: https://machine-streams-53baa3f150ba.herokuapp.com/admin/#/collections/blog/entries/call-for-participants-queering-ai-workshop-series
     thumbnail: img/canwebsite-_credit_control-shift_7.jpg
-  - name: ggfg
+  - name: "Queer Tech "
     description: dgdfgg
     link: dfgfgfg
+  - name: "Past Events "
+    description: "Check out our past events since we began collaborating last year! "
 ---
 A queer collective based in Bristol, UK, interested in building, subverting and hacking technology.
