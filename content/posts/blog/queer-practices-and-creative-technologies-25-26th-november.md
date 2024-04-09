@@ -13,7 +13,7 @@ What networks do we use as queer people, and how can we use radio to imagine a f
 
 What part has the radio played in your life What are your memories of listening to the radio? Where did you listen to it, and who with? If you could broadcast anything on the radio, what would you like to broadcast? What would the perfect communications network look like to you? Who would build it, what would it look like? Would it be global or local? What senses would it make use of? What message would you like to leave for people who are entering this imagined network for the first time? How would you welcome them? 
 
-\{Image of Harriet giving workshop\}
+\Image of Harriet giving workshop\
 
 **[ MELT](http://meltionary.com/) (Ren Loren Britton and Iz Paehr) methods/sdohtem**
 
