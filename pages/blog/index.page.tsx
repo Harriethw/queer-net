@@ -50,7 +50,9 @@ const fetchAllPosts = async () => {
 };
 
 export const getStaticProps = async () => {
-  const posts = await fetchAllPosts();
+  const posts = (await fetchAllPosts()).sort((a, b) => {
+    return new Date(b.date).getTime() - new Date(a.date).getTime();
+  });
 
   return { props: { posts } };
 };

@@ -3,13 +3,41 @@ import { render, screen } from "@testing-library/react";
 import Blog, { BlogPostUi, getStaticProps } from "./index.page";
 
 jest.mock(
-  "../../content/posts/blog/blog-name.md",
+  "../../content/posts/blog/middle-blog.md",
   () => {
     return {
       attributes: {
-        title: "example blog",
+        title: "middle blog",
         date: "2024-03-25T15:23:07.354Z",
-        thumbnail: "/img/qtb_november.png",
+        thumbnail: "/img/middle.png",
+      },
+    };
+  },
+  { virtual: true }
+);
+
+jest.mock(
+  "../../content/posts/blog/latest-blog.md",
+  () => {
+    return {
+      attributes: {
+        title: "latest blog",
+        date: "2024-04-25T10:23:07.354Z",
+        thumbnail: "/img/latest.png",
+      },
+    };
+  },
+  { virtual: true }
+);
+
+jest.mock(
+  "../../content/posts/blog/oldest-blog.md",
+  () => {
+    return {
+      attributes: {
+        title: "oldest blog",
+        date: "2024-01-25T16:23:07.354Z",
+        thumbnail: "/img/oldest.png",
       },
     };
   },
@@ -17,7 +45,11 @@ jest.mock(
 );
 
 jest.mock("fs", () => ({
-  readdirSync: jest.fn(() => ["blog-name.md"]),
+  readdirSync: jest.fn(() => [
+    "middle-blog.md",
+    "oldest-blog.md",
+    "latest-blog.md",
+  ]),
 }));
 
 describe("Blog", () => {
@@ -61,11 +93,25 @@ describe("getStaticProps", () => {
   it("returns correct props", async () => {
     const { props } = await getStaticProps();
     expect(props.posts[0]).toEqual({
-      title: "example blog",
-      fileName: "blog-name.md",
-      pathParam: "blog-name",
+      title: "latest blog",
+      fileName: "latest-blog.md",
+      pathParam: "latest-blog",
+      date: "2024-04-25T10:23:07.354Z",
+      thumbnail: "/img/latest.png",
+    });
+    expect(props.posts[1]).toEqual({
+      title: "middle blog",
+      fileName: "middle-blog.md",
+      pathParam: "middle-blog",
       date: "2024-03-25T15:23:07.354Z",
-      thumbnail: "/img/qtb_november.png",
+      thumbnail: "/img/middle.png",
+    });
+    expect(props.posts[2]).toEqual({
+      title: "oldest blog",
+      fileName: "oldest-blog.md",
+      pathParam: "oldest-blog",
+      date: "2024-01-25T16:23:07.354Z",
+      thumbnail: "/img/oldest.png",
     });
   });
 });
