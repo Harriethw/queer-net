@@ -8,7 +8,7 @@ import dynamic from "next/dynamic";
 
 export const getStaticPaths = () => {
   const paths = fetchPostFileNames().map(
-    (fileName) => `/blog/post/${fileName}`
+    (fileName) => `/blog/post/${fileName.slice(0, -3)}`
   );
   return {
     paths,

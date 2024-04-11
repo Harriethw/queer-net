@@ -15,6 +15,7 @@ type BlogPostAttributes = {
 
 export type BlogPostUi = BlogPostAttributes & {
   fileName: string;
+  pathParam: string;
 };
 
 type BlogProps = {
@@ -30,12 +31,13 @@ export const fetchPostFileNames = (): string[] => {
 export const fetchPostAttributesWithFileName = async (
   fileName: string
 ): Promise<BlogPostUi> => {
+  const pathParam = fileName.slice(0, -3);
   const blogPost = await import(`../../content/posts/blog/${fileName}`).catch(
     (error) => {
       console.log(error);
     }
   );
-  return { fileName, ...blogPost.attributes };
+  return { fileName, pathParam, ...blogPost.attributes };
 };
 
 const fetchAllPosts = async () => {
@@ -60,7 +62,7 @@ export function Blog({ posts }: BlogProps) {
         {posts.map((post) => {
           return (
             <li key={post.fileName}>
-              <Link href={`blog/post/${post.fileName}`}>
+              <Link href={`blog/post/${post.pathParam}`}>
                 <h2>
                   <span aria-hidden="true">~</span> {post.title}
                 </h2>
@@ -69,7 +71,7 @@ export function Blog({ posts }: BlogProps) {
                 <p>
                   {post.previewText}{" "}
                   <span>
-                    <Link href={`blog/post/${post.fileName}`}>
+                    <Link href={`blog/post/${post.pathParam}`}>
                       Read more...
                     </Link>
                   </span>

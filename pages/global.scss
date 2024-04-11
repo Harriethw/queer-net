@@ -129,6 +129,7 @@ main {
   flex-direction: row;
   align-items: center;
   flex-grow: 1;
+  padding-left: 1.5em;
 
   img {
     max-width: 14em;
@@ -215,6 +216,6 @@ main {
 /* Largest devices such as desktops (1280px and up) */
 @media only screen and (min-width: 80em) {
   .wrapper {
-    max-width: 40vw;
+    max-width: 50vw;
   }
 }

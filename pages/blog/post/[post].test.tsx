@@ -23,6 +23,7 @@ describe("Post", () => {
     const exampleBlogPost: BlogPostUi = {
       title: "example blog",
       fileName: "hello-world-blog.md",
+      pathParam: "hello-world",
       thumbnail: "/image.jpg",
       date: "2024-02-31T17:25:54.102Z",
     };
@@ -47,6 +48,7 @@ describe("getStaticProps", () => {
     expect(props.post).toEqual({
       title: "example blog",
       fileName: "blog-name.md",
+      pathParam: "blog-name",
       date: "2024-03-25T15:23:07.354Z",
       thumbnail: "/image.jpg",
     });

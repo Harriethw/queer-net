@@ -26,6 +26,7 @@ describe("Blog", () => {
       {
         title: "hello world blog",
         fileName: "hello-world-blog.md",
+        pathParam: "hello-world-blog",
         thumbnail: "/image.jpg",
         date: "2024-02-31T17:25:54.102Z",
         previewText: "preview text for the blog",
@@ -33,6 +34,7 @@ describe("Blog", () => {
       {
         title: "yet another blog",
         fileName: "yet-another-blog.md",
+        pathParam: "yet-another-blog",
         date: "2024-02-26T17:25:54.102Z",
       },
     ];
@@ -45,12 +47,12 @@ describe("Blog", () => {
 
     expect(firstPost.firstChild).toHaveAttribute(
       "href",
-      "blog/post/hello-world-blog.md"
+      "blog/post/hello-world-blog"
     );
     expect(firstPost.textContent).toContain("preview text for the blog");
     expect(lastPost.lastChild).toHaveAttribute(
       "href",
-      "blog/post/yet-another-blog.md"
+      "blog/post/yet-another-blog"
     );
   });
 });
@@ -61,6 +63,7 @@ describe("getStaticProps", () => {
     expect(props.posts[0]).toEqual({
       title: "example blog",
       fileName: "blog-name.md",
+      pathParam: "blog-name",
       date: "2024-03-25T15:23:07.354Z",
       thumbnail: "/img/qtb_november.png",
     });
