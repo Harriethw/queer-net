@@ -17,7 +17,7 @@ export const getStaticPaths = () => {
 };
 
 export const getStaticProps = async ({ params }) => {
-  const post = await fetchPostAttributesWithFileName(params.post);
+  const post = await fetchPostAttributesWithFileName(`${params.post}.md`);
 
   return {
     props: { post },
