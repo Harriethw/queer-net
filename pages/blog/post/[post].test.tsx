@@ -43,7 +43,7 @@ describe("Post", () => {
 describe("getStaticProps", () => {
   it("returns correct props", async () => {
     const { props } = await getStaticProps({
-      params: { post: "blog-name.md" },
+      params: { post: "blog-name" },
     });
     expect(props.post).toEqual({
       title: "example blog",
