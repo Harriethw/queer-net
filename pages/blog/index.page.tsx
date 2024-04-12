@@ -61,6 +61,11 @@ export const getStaticProps = async () => {
 export function Blog({ posts }: BlogProps) {
   return (
     <div className="blog__list">
+      <img
+        className="image__icon"
+        alt="a small line drawing of friendly robot/humanoids"
+        src="/img/illo_2.webp"
+      />
       <ul data-testid="blog-list">
         {posts.map((post) => {
           return (
@@ -84,6 +89,11 @@ export function Blog({ posts }: BlogProps) {
           );
         })}
       </ul>
+      <img
+        className="image__icon"
+        alt="a small line drawing of friendly robot/humanoids"
+        src="/img/illo_3.webp"
+      />
     </div>
   );
 }

@@ -23,6 +23,11 @@ a {
   }
 }
 
+article {
+  display: flex;
+  flex-direction: column;
+}
+
 main {
   display: flex;
   flex-direction: column;
@@ -160,6 +165,7 @@ main {
 
 .blog__list {
   display: flex;
+  flex-direction: column;
   a {
     text-decoration: dashed;
   }
@@ -177,6 +183,11 @@ main {
     list-style-type: none;
     padding-bottom: 1.5em;
   }
+}
+
+.image__icon {
+  max-width: 100px;
+  align-self: center;
 }
 
 /* smartphones etc. (600px and up) */

@@ -8,6 +8,11 @@ export default class Home extends Component {
     return (
       <>
         <article>
+          <img
+            className="image__icon"
+            alt="a small line drawing of friendly robot/humanoids"
+            src="/img/illo_3.webp"
+          />
           <h2 className="events__content">
             <HomeContent />
           </h2>
