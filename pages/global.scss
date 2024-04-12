@@ -5,7 +5,7 @@ body {
   display: flex;
   padding: 1em 1em;
   margin: 0;
-  font-family: "Courier New", Courier, monospace;
+  font-family: monospace;
   justify-content: center;
   background-image: url("/img/illo_1.webp");
   background-attachment: fixed;
@@ -51,6 +51,7 @@ main {
     letter-spacing: 1rem;
     padding: 0em 1em;
     background-color: white;
+    font-size: 3em;
     line-height: 1em;
   }
 
@@ -216,7 +217,7 @@ main {
   .navBar {
     .navBar__links {
       background-color: white;
-      font-size: medium;
+      font-size: 1.3em;
       letter-spacing: 0.1rem;
 
       li {
