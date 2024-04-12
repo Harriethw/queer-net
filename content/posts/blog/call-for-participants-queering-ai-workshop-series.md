@@ -1,6 +1,6 @@
 ---
 title: "Call for Participants: Queering AI Workshop Series "
-date: 2024-04-09T17:43:00.000Z
+date: 2024-04-12T10:12:00.000Z
 ---
 Queering AI is a workshop series running from May to December 2024, led by queer artists. Together, we will disrupt the dominant imaginaries of AI through queer creativity, and share tools to form queer connections with technology. At the end of the workshop series, we will produce a collective manifesto for queering AI.
 
