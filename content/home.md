@@ -7,7 +7,7 @@ news:
       programmer, educator or citizen interested in building a queer tech
       community we'd love to hear from you.
     name: "Join our 2024 workshop cohort for Queering AI "
-    link: https://machine-streams-53baa3f150ba.herokuapp.com/admin/#/collections/blog/entries/call-for-participants-queering-ai-workshop-series
+    link: https://www.machine-streams.com/blog/post/call-for-participants-queering-ai-workshop-series/
     thumbnail: img/canwebsite-_credit_control-shift_7.jpg
   - description: How has technology changed drag culture? Can we use AI to invent
       our own drag personas of the future? Join us for an evening of creativity
