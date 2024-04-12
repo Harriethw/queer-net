@@ -1,6 +1,6 @@
 ---
 title: Feminist DevOps
-date: 2024-03-31T15:23:07.354Z
+date: 2024-04-12T01:00:00.000Z
 previewText: Our February event was on the topic of feminist DevOps, with a talk
   from an experienced sysadmin, Julia Hawkes-Reed. We touched on some
   wide-ranging themes of oppressive systems, design thinking and team values
