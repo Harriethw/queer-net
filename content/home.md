@@ -12,9 +12,9 @@ news:
   - description: How has technology changed drag culture? Can we use AI to invent
       our own drag personas of the future? Join us for an evening of creativity
       at the Watershed's PM Studio, find out more here.
-    name: Drag the Machine, 19th March 2024
+    name: Drag and Drop, 19th March 2024
     link: https://www.headfirstbristol.co.uk/#home
-    thumbnail: img/qtb_june.png
+    thumbnail: img/e104630_i188212_s4.jpg
   - description: We will be discussing Neptune Frost directed by Saul Williams and
       Anisia Uzeyman at the Pervasive Media Studio. We will also be screening
       this at the Department of Film, University of Bristol on 15th at 6pm. More
@@ -25,9 +25,6 @@ news:
     description: " Queer Tech and the reading group came together for a lovely
       evening to discuss two incredible texts; Hacker Manifesto McKenzie Wark &
       The Real World of Technology Ursula Franklin"
-  - name: "Queer Tech "
-    description: dgdfgg
-    link: dfgfgfg
   - name: Creating Queer Values in Community Tech 30/1/24
     description: "A space to share our experiences in queer spaces,
       university/institutional spaces, tech spaces to create values for machine
