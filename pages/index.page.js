@@ -33,7 +33,7 @@ export default class Home extends Component {
                 {piece.thumbnail && (
                   <div className="events__thumbnail">
                     <a href={piece.link}>
-                      <img src={piece.thumbnail}></img>
+                      <img src={piece.thumbnail} alt={piece.altText}></img>
                     </a>
                   </div>
                 )}

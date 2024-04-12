@@ -43,7 +43,11 @@ function Post({ post }: PostProps) {
     <article className="blog__post">
       <h1>{post.title}</h1>
       {post.thumbnail && (
-        <img className="image--full" src={post.thumbnail}></img>
+        <img
+          className="image--full"
+          src={post.thumbnail}
+          alt={post.altText}
+        ></img>
       )}
       <PostBody data-testid="bog-post" />
     </article>

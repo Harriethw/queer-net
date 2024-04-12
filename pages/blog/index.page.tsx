@@ -11,6 +11,7 @@ type BlogPostAttributes = {
   date: string;
   thumbnail?: string;
   previewText?: string;
+  altText?: string;
 };
 
 export type BlogPostUi = BlogPostAttributes & {

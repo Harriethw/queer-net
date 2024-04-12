@@ -29,6 +29,12 @@ collections:
                   widget: "image",
                   required: false,
                 }
+              - {
+                  label: "Image Alt Text",
+                  name: "altText",
+                  widget: "string",
+                  required: false,
+                }
       - label: "About"
         name: "about"
         file: "content/about.md"
@@ -37,6 +43,12 @@ collections:
           - { label: "Publish Date", name: "date", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Hero Image", name: "image", widget: "image" }
+          - {
+              label: "Image Alt Text",
+              name: "altText",
+              widget: "string",
+              required: false,
+            }
       - label: "Resources"
         name: "resources"
         file: "content/resources.md"
@@ -48,6 +60,12 @@ collections:
               label: "Hero Image",
               name: "image",
               widget: "image",
+              required: false,
+            }
+          - {
+              label: "Image Alt Text",
+              name: "altText",
+              widget: "string",
               required: false,
             }
   - label: "Blog"
@@ -62,6 +80,12 @@ collections:
           label: "Featured Image",
           name: "thumbnail",
           widget: "image",
+          required: false,
+        }
+      - {
+          label: "Image Alt Text",
+          name: "altText",
+          widget: "string",
           required: false,
         }
       - {
