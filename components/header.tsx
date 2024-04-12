@@ -10,6 +10,9 @@ const Header = () => {
       <Link href="/">
         <h1>machine streams</h1>
       </Link>
+      <span className="header__brackets" aria-hidden="true">
+        &#126;
+      </span>
     </div>
   );
 };
