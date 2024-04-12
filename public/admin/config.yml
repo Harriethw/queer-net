@@ -4,7 +4,7 @@ backend:
   branch: main # Branch to update
   base_url: https://cms-test-640cec13ec4d.herokuapp.com/ # Path to ext auth provider
 media_folder: "public/img"
-public_folder: "/img"
+public_folder: "/img/"
 collections:
   - name: "pages"
     label: "Pages"
