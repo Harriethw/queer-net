@@ -5,10 +5,12 @@ export default class Resources extends Component {
   render() {
     return (
       <>
-        <article>
-          <h2>Resources</h2>
-          <ResourcesContent />
-        </article>
+        <div className="page__background">
+          <article>
+            <h2>Resources</h2>
+            <ResourcesContent />
+          </article>
+        </div>
       </>
     );
   }

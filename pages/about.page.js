@@ -5,7 +5,7 @@ export default class About extends Component {
   render() {
     let { image, altText } = attributes;
     return (
-      <>
+      <div className="page__background">
         <article>
           <img
             className="image__icon"
@@ -18,7 +18,7 @@ export default class About extends Component {
             <img className="image--hero" src={image} alt={altText}></img>
           )}
         </article>
-      </>
+      </div>
     );
   }
 }

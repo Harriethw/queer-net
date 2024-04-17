@@ -1,4 +1,5 @@
 $color-purple: rgb(178 93 255);
+$color-pink: rgb(255, 58, 255);
 $color-orange: rgb(245, 168, 3);
 $color-grey: #242421;
 
@@ -10,13 +11,13 @@ body {
   justify-content: center;
   background-image: url("/img/illo_1.webp");
   background-attachment: fixed;
-  background-size: 700px;
+  background-size: 900px;
 }
 
 a {
   letter-spacing: 0.1em;
   text-underline-offset: 0.5em;
-  color: rgb(178, 93, 255);
+  color: $color-purple;
   line-height: 2em;
 
   &:hover {
@@ -24,9 +25,19 @@ a {
   }
 }
 
-article {
+.page__background {
   display: flex;
   flex-direction: column;
+  background-color: $color-grey;
+  border-radius: 2em;
+  color: whitesmoke;
+  padding: 1.5em;
+}
+
+article {
+  a {
+    color: $color-pink;
+  }
 }
 
 main {
@@ -34,7 +45,6 @@ main {
   flex-direction: column;
   padding: 1em 2em 10em 2em;
   margin-top: 8em;
-  background: white;
   font-size: larger;
 }
 
@@ -52,6 +62,10 @@ p {
   position: fixed;
   left: 0;
   display: flex;
+  background: white;
+  align-content: center;
+  justify-content: center;
+  min-width: 100%;
 
   h1 {
     letter-spacing: 1rem;
@@ -176,10 +190,9 @@ p {
   flex-direction: column;
   a {
     text-decoration: dashed;
+    color: $color-pink;
   }
   h2 {
-    color: rgb(82, 76, 76);
-
     &:hover {
       color: $color-orange;
     }
@@ -194,8 +207,9 @@ p {
 }
 
 .image__icon {
-  max-width: 100px;
+  max-width: 150px;
   align-self: center;
+  justify-self: center;
 }
 
 /* smartphones etc. (600px and up) */

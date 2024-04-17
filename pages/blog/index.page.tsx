@@ -60,40 +60,42 @@ export const getStaticProps = async () => {
 
 export function Blog({ posts }: BlogProps) {
   return (
-    <div className="blog__list">
-      <img
-        className="image__icon"
-        alt="a small line drawing of friendly robot/humanoids"
-        src="/img/illo_2.webp"
-      />
-      <ul data-testid="blog-list">
-        {posts.map((post) => {
-          return (
-            <li key={post.fileName}>
-              <Link href={`blog/post/${post.pathParam}`}>
-                <h2>
-                  <span aria-hidden="true">~</span> {post.title}
-                </h2>
-              </Link>
-              {post.previewText && (
-                <p>
-                  {post.previewText}{" "}
-                  <span>
-                    <Link href={`blog/post/${post.pathParam}`}>
-                      Read more...
-                    </Link>
-                  </span>
-                </p>
-              )}
-            </li>
-          );
-        })}
-      </ul>
-      <img
-        className="image__icon"
-        alt="a small line drawing of friendly robot/humanoids"
-        src="/img/illo_3.webp"
-      />
+    <div className="page__background">
+      <div className="blog__list">
+        <img
+          className="image__icon"
+          alt="a small line drawing of friendly robot/humanoids"
+          src="/img/illo_2.webp"
+        />
+        <ul data-testid="blog-list">
+          {posts.map((post) => {
+            return (
+              <li key={post.fileName}>
+                <Link href={`blog/post/${post.pathParam}`}>
+                  <h2>
+                    <span aria-hidden="true">~</span> {post.title}
+                  </h2>
+                </Link>
+                {post.previewText && (
+                  <p>
+                    {post.previewText}{" "}
+                    <span>
+                      <Link href={`blog/post/${post.pathParam}`}>
+                        Read more...
+                      </Link>
+                    </span>
+                  </p>
+                )}
+              </li>
+            );
+          })}
+        </ul>
+        <img
+          className="image__icon"
+          alt="a small line drawing of friendly robot/humanoids"
+          src="/img/illo_3.webp"
+        />
+      </div>
     </div>
   );
 }

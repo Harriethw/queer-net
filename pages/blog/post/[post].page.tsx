@@ -40,17 +40,19 @@ function Post({ post }: PostProps) {
   );
 
   return (
-    <article className="blog__post">
-      <h1>{post.title}</h1>
-      {post.thumbnail && (
-        <img
-          className="image--full"
-          src={post.thumbnail}
-          alt={post.altText}
-        ></img>
-      )}
-      <PostBody data-testid="bog-post" />
-    </article>
+    <div className="page__background">
+      <article className="blog__post">
+        <h1>{post.title}</h1>
+        {post.thumbnail && (
+          <img
+            className="image--full"
+            src={post.thumbnail}
+            alt={post.altText}
+          ></img>
+        )}
+        <PostBody data-testid="bog-post" />
+      </article>
+    </div>
   );
 }
 
