@@ -1,6 +1,7 @@
 $color-purple: rgb(178 93 255);
-$color-pink: rgb(255, 58, 255);
+$color-pink: rgb(255, 126, 255);
 $color-orange: rgb(245, 168, 3);
+$color-green: rgb(11, 245, 3);
 $color-grey: #242421;
 
 body {
@@ -17,11 +18,11 @@ body {
 a {
   letter-spacing: 0.1em;
   text-underline-offset: 0.5em;
-  color: $color-purple;
+  color: $color-green;
   line-height: 2em;
 
   &:hover {
-    color: rgb(245, 168, 3);
+    color: $color-pink;
   }
 }
 
@@ -36,7 +37,7 @@ a {
 
 article {
   a {
-    color: $color-pink;
+    color: $color-green;
   }
 }
 
@@ -62,7 +63,7 @@ p {
   position: fixed;
   left: 0;
   display: flex;
-  background: white;
+  background: $color-grey;
   align-content: center;
   justify-content: center;
   min-width: 100%;
@@ -70,13 +71,12 @@ p {
   h1 {
     letter-spacing: 1rem;
     padding: 0em 1em;
-    background-color: white;
     font-size: 3em;
     line-height: 1em;
   }
 
   .header__brackets {
-    color: $color-purple;
+    color: $color-green;
     font-size: 8em;
     line-height: 0.7em;
   }
@@ -111,7 +111,7 @@ p {
       padding: 0em 3em 0em 0em;
 
       p {
-        background-color: white;
+        background-color: $color-grey;
       }
     }
   }
@@ -133,8 +133,8 @@ p {
 
   li {
     background-color: $color-grey;
-    border: $color-purple solid 1px;
-    box-shadow: $color-purple 5px 10px;
+    border: $color-green solid 1px;
+    box-shadow: $color-green 5px 10px;
     border-radius: 2em;
     padding: 1.5em;
     margin: 1.5em 0em;
@@ -168,7 +168,7 @@ p {
   img {
     max-width: 14em;
     border-radius: 50%;
-    border: $color-purple solid 0.5px;
+    border: $color-green solid 0.5px;
   }
 }
 
@@ -190,7 +190,7 @@ p {
   flex-direction: column;
   a {
     text-decoration: dashed;
-    color: $color-pink;
+    color: $color-green;
   }
   h2 {
     &:hover {
