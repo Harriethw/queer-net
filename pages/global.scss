@@ -67,12 +67,33 @@ p {
   align-content: center;
   justify-content: center;
   min-width: 100%;
+  overflow: hidden;
+
+  .header__text {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    animation: move 5s infinite;
+  }
 
   h1 {
     letter-spacing: 1rem;
     padding: 0em 1em;
     font-size: 3em;
     line-height: 1em;
+  }
+
+  @keyframes move {
+    25% {
+      transform: translatey(-1vmin);
+      opacity: 1;
+    }
+    50% {
+      transform: translatey(1vmin);
+    }
+    75% {
+      transform: translatey(-1vmin);
+    }
   }
 
   .header__brackets {
