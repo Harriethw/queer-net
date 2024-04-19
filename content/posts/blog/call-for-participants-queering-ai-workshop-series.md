@@ -14,8 +14,10 @@ Queering AI is a workshop series running from May to December 2024, led by queer
 
 TBC/12/2024: Batool Desouky- Magic & AI
 
-This call is open to people living in the Southwest of the UK. Once you have been selected, you will have a place for the full workshop series (4 artist workshops from April to December). Participation will be paid (£75 a day).
+This call is open to people living in the Southwest of the UK. Once you have been selected, you will have a place for the full workshop series (4 artist workshops from April to December). Workshops will take place in Bristol city centre and participation will be paid (£75 a day).
 
 There are 10 places available on the workshop series. If we have more applicants than places available, we will select applicants at random to fill the places. We will let all applicants know whether they have a place on the programme by 25/04/2024
 
-To apply, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLScPVSulFRuI_2UQIcoDHBBuBbZGQRVGgCvQYTcNBrq6NbIT_w/viewform). Deadline is 23/04/2024.
+To apply, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLScPVSulFRuI_2UQIcoDHBBuBbZGQRVGgCvQYTcNBrq6NbIT_w/viewform). Deadline is 23/04/2024. 
+
+This is a project co-ran by us and the Pervasive Media Studio and funded by the Impact Acceleration Fund, AHRC.
