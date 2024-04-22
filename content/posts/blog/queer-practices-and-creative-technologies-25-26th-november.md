@@ -1,9 +1,8 @@
 ---
-title: Queer Practices and Creative Technologies (25-26th November)
+title: queer practices in creative tech weekender
 date: 2024-04-09T18:08:00.000Z
-previewText: "Two-day weekender inviting queer researchers, artists and
-  practitioners to think together during three workshops in collaboration with
-  Control Shift "
+previewText: "Queer researchers, artists and practitioners to think together
+  during three workshops in collaboration with Control Shift "
 ---
 This event took place at the Wickham Theatre in collaboration with [Control Shift ](https://control-shift.io/)
 
