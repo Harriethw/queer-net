@@ -12,7 +12,7 @@ Queering AI is a workshop series running from May to December 2024, led by queer
 
 28/09/2024: Amina Abbas Nazari - Queer Speculative Voicing 
 
-TBC/12/2024: Batool Desouky- Magic & AI
+TBC DECEMBER 
 
 This call is open to people living in the Southwest of the UK. Once you have been selected, you will have a place for the full workshop series (4 artist workshops from April to December). Workshops will take place in Bristol city centre and participation will be paid (£75 a day).
 
