@@ -15,6 +15,26 @@ body {
   background-size: 900px;
 }
 
+p {
+  font-size: 1.4em;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+h3 {
+  font-size: 1.6em;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
 a {
   letter-spacing: 0.1em;
   text-underline-offset: 0.5em;
@@ -46,10 +66,6 @@ main {
   flex-direction: column;
   padding: 1em 2em 10em 2em;
   margin-top: 8em;
-  font-size: larger;
-}
-
-p {
   font-size: larger;
 }
 
@@ -202,7 +218,7 @@ p {
   border-bottom-right-radius: 0em;
 }
 
-.image--full {
+img {
   max-width: 100%;
 }
 
