@@ -1,5 +1,5 @@
 ---
-title: queer practices in creative tech weekender
+title: Queer creative tech practice weekender
 date: 2024-04-09T18:08:00.000Z
 previewText: "Queer researchers, artists and practitioners to think together
   during three workshops in collaboration with Control Shift "
@@ -12,8 +12,6 @@ What networks do we use as queer people, and how can we use radio to imagine a f
 
 What part has the radio played in your life What are your memories of listening to the radio? Where did you listen to it, and who with? If you could broadcast anything on the radio, what would you like to broadcast? What would the perfect communications network look like to you? Who would build it, what would it look like? Would it be global or local? What senses would it make use of? What message would you like to leave for people who are entering this imagined network for the first time? How would you welcome them? 
 
-\Image of Harriet giving workshop\
-
 **[ MELT](http://meltionary.com/) (Ren Loren Britton and Iz Paehr) methods/sdohtem**
 
 Through Disability Justice and Trans*feminisms, we experimented with methods like starting twice, talking twice, undoing binaries, describing carefully, naming needs, reading nonlinearly and engaging with material agencies to answer the question how do we set up a value based practice?
@@ -24,4 +22,8 @@ How could the extremely online queer people contribute to their local queer comm
 
 Inspired by the 2000s queer icons, the queer communities in VR Chat & VTuber world, and Bristol's wonderful local queer scene, we imagined what a VTuber and the world they would live in would look like in speculative empowered queer community. 
 
-You can explore the workshops, conversations and artistic responses through the zine Harriet and Katy made after!
+You can explore the workshops, conversations and artistic responses through the zine attached.
+
+
+
+![Photo of a group of around ten queers sat around a table imagining and co-creating a VTuber in a darker theatre with a screen at the back with a transcript of the workshop. In front there is a table with art materials and glasses. ](/img/zine.png "Workshop Group Imagining a VTuber ")
