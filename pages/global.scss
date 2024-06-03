@@ -36,7 +36,6 @@ h4 {
 }
 
 a {
-  letter-spacing: 0.1em;
   text-underline-offset: 0.5em;
   color: $color-green;
   line-height: 2em;
@@ -50,6 +49,8 @@ a {
   display: flex;
   flex-direction: column;
   background-color: $color-grey;
+  border: $color-green solid 1px;
+  box-shadow: $color-green 5px 10px;
   border-radius: 2em;
   color: whitesmoke;
   padding: 1.5em;
