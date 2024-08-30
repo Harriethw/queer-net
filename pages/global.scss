@@ -9,14 +9,13 @@ body {
   padding: 1em 1em;
   margin: 0;
   font-family: monospace;
-  justify-content: center;
   background-image: url("/img/illo_1.webp");
   background-attachment: fixed;
   background-size: 900px;
 }
 
 p {
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 
 h1 {
@@ -25,6 +24,8 @@ h1 {
 
 h2 {
   font-size: 1.5em;
+  font-weight: 300;
+  text-transform: uppercase;
 }
 
 h3 {
@@ -50,8 +51,7 @@ a {
   flex-direction: column;
   background-color: $color-grey;
   border: $color-green solid 1px;
-  box-shadow: $color-green 5px 10px;
-  border-radius: 2em;
+  box-shadow: $color-green 5px 5px;
   color: whitesmoke;
   padding: 2em 3em 2em 3em;
 }
@@ -65,13 +65,13 @@ article {
 main {
   display: flex;
   flex-direction: column;
-  padding: 1em 2em 10em 2em;
+  padding: 1em 2em 2em 2em;
   margin-top: 8em;
   font-size: larger;
 }
 
 .wrapper {
-  max-width: 60vw;
+  max-width: 90vw;
   display: flex;
   flex-direction: column;
 }
@@ -160,20 +160,20 @@ main {
   padding: 1em 0em;
   margin: 1em 1em 0em 0em;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
   color: whitesmoke;
 
   li {
     background-color: $color-grey;
-    border: $color-green solid 1px;
-    box-shadow: $color-green 5px 10px;
-    border-radius: 2em;
-    padding: 1.5em;
-    margin: 1.5em 0em;
+    border: $color-green solid 1px; 
+    box-shadow: $color-green 5px 5px;
+    padding: 1em;
+    margin: 1.5em 1em;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
+    min-width: 30vw;
   }
 
   a {
@@ -200,7 +200,6 @@ main {
 
   img {
     max-width: 14em;
-    border-radius: 50%;
     border: $color-green solid 0.5px;
   }
 }
@@ -300,7 +299,9 @@ img {
 
 /* Largest devices such as desktops (1280px and up) */
 @media only screen and (min-width: 80em) {
-  .wrapper {
-    max-width: 50vw;
+  .events__list {
+    li {
+      max-width: 25vw;
+    }
   }
 }

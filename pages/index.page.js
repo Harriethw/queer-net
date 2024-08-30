@@ -11,6 +11,13 @@ export default class Home extends Component {
           {news.map((piece, k) => (
             <li key={k}>
               <div className="events__box">
+                {piece.thumbnail && (
+                  <div className="events__thumbnail">
+                    <a href={piece.link}>
+                      <img src={piece.thumbnail} alt={piece.altText}></img>
+                    </a>
+                  </div>
+                )}
                 <h2>{piece.name}</h2>
                 <p>{piece.description}</p>
                 {piece.link && (
@@ -25,13 +32,6 @@ export default class Home extends Component {
                   </p>
                 )}
               </div>
-              {piece.thumbnail && (
-                <div className="events__thumbnail">
-                  <a href={piece.link}>
-                    <img src={piece.thumbnail} alt={piece.altText}></img>
-                  </a>
-                </div>
-              )}
             </li>
           ))}
         </ul>
