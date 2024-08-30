@@ -65,7 +65,7 @@ export function Blog({ posts }: BlogProps) {
         <img
           className="image__icon"
           alt="a small line drawing of friendly robot/humanoids"
-          src="/img/illo_2.webp"
+          src="/img/invert_2_glow.png"
         />
         <ul data-testid="blog-list">
           {posts.map((post) => {

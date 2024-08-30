@@ -10,7 +10,7 @@ export default class About extends Component {
           <img
             className="image__icon"
             alt="a small line drawing of friendly robot/humanoids"
-            src="/img/illo_1.webp"
+            src="/img/inverted_glow.png"
           />
           <h2>About</h2>
           <AboutContent />

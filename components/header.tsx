@@ -7,6 +7,11 @@ const Header = () => {
       <Link href="/">
         <h1>machine streams</h1>
       </Link>
+      <img
+        className="image__icon"
+        alt="a small line drawing of friendly robot/humanoids"
+        src="/img/header_logo_glow.png"
+      />
     </div>
   );
 };

@@ -10,9 +10,7 @@ body {
   padding: 1em 1em;
   margin: 0;
   font-family: monospace;
-  background-image: url("/img/illo_1.webp");
-  background-attachment: fixed;
-  background-size: 900px;
+  background-color: black;
 }
 
 p {
@@ -43,7 +41,7 @@ a {
   line-height: 2em;
 
   &:hover {
-    color: $color-pink;
+    color: white;
   }
 }
 
@@ -99,6 +97,11 @@ main {
   min-width: 100%;
   overflow: hidden;
   padding-left: 1em;
+  justify-content: space-between;
+
+  img {
+    animation: move 5s infinite;
+  }
 
   .header__text {
     display: flex;
@@ -139,24 +142,26 @@ main {
 
 .navBar {
   position: fixed;
-  bottom: 0px;
-  left: 0px;
+  bottom: 0;
+  left: 0;
   padding-left: 1em;
   display: flex;
   flex-direction: row;
   width: 100%;
+  background-color: $color-grey;
+  justify-content: space-between;
 
   .navBar__links {
-    padding: 0;
+    padding: 0 1em;
     margin: 0;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     list-style-type: none;
-    font-size: 3em;
+    font-size: 1.5em;
     font-weight: bolder;
     letter-spacing: 0.3rem;
-    min-width: 100%;
+    min-width: 60%;
 
     li {
       padding: 0% 3% 0% 0%;
@@ -297,8 +302,12 @@ img {
 
   .navBar {
     padding-left: 0;
+
+    img {
+      display: none;
+    }
     .navBar__links {
-      background-color: white;
+      background-color: $color-grey;
       font-size: large;
       letter-spacing: 0.1rem;
 
