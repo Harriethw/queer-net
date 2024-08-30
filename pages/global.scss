@@ -2,7 +2,8 @@ $color-purple: rgb(178 93 255);
 $color-pink: rgb(255, 126, 255);
 $color-orange: rgb(245, 168, 3);
 $color-green: rgb(11, 245, 3);
-$color-grey: #242421;
+$color-grey: #343433;
+$color-glow: #d3eecf;
 
 body {
   display: flex;
@@ -24,7 +25,7 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  font-weight: 300;
+  font-weight: lighter;
   text-transform: uppercase;
 }
 
@@ -76,6 +77,19 @@ main {
   flex-direction: column;
 }
 
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px $color-grey, 0 0 20px $color-grey,
+      0 0 30px $color-glow, 0 0 40px $color-glow, 0 0 50px $color-glow,
+      0 0 60px $color-glow, 0 0 70px $color-glow;
+  }
+  to {
+    text-shadow: 0 0 20px $color-grey, 0 0 30px $color-glow,
+      0 0 40px $color-glow, 0 0 50px $color-glow, 0 0 60px $color-glow,
+      0 0 70px $color-glow, 0 0 80px $color-glow;
+  }
+}
+
 .header {
   position: fixed;
   left: 0;
@@ -94,10 +108,14 @@ main {
 
   h1 {
     letter-spacing: 0.8rem;
+    text-decoration: none;
     padding: 0em 1em;
     font-size: 2.2em;
     line-height: 3em;
     font-weight: normal;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
   }
 
   .header__brackets {
@@ -166,7 +184,7 @@ main {
 
   li {
     background-color: $color-grey;
-    border: $color-green solid 1px; 
+    border: $color-green solid 1px;
     box-shadow: $color-green 5px 5px;
     padding: 1em;
     margin: 1.5em 1em;
@@ -196,10 +214,9 @@ main {
   flex-direction: row;
   align-items: center;
   flex-grow: 1;
-  padding-left: 1.5em;
 
   img {
-    max-width: 14em;
+    max-width: 20em;
     border: $color-green solid 0.5px;
   }
 }
