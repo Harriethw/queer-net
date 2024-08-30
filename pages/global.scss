@@ -20,19 +20,19 @@ p {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 h2 {
-  font-size: 1.8em;
+  font-size: 1.5em;
 }
 
 h3 {
-  font-size: 1.6em;
+  font-size: 1.3em;
 }
 
 h4 {
-  font-size: 1.5em;
+  font-size: 1.1em;
 }
 
 a {
@@ -79,44 +79,43 @@ main {
 .header {
   position: fixed;
   left: 0;
+  top: 0;
   display: flex;
   background: $color-grey;
-  align-content: center;
-  justify-content: center;
   min-width: 100%;
   overflow: hidden;
+  padding-left: 1em;
 
   .header__text {
     display: flex;
     flex-direction: column;
-    text-align: center;
     animation: move 5s infinite;
   }
 
   h1 {
-    letter-spacing: 1rem;
+    letter-spacing: 0.8rem;
     padding: 0em 1em;
-    font-size: 3em;
-    line-height: 1em;
-  }
-
-  @keyframes move {
-    25% {
-      transform: translatey(-1vmin);
-      opacity: 1;
-    }
-    50% {
-      transform: translatey(1vmin);
-    }
-    75% {
-      transform: translatey(-1vmin);
-    }
+    font-size: 2.2em;
+    line-height: 3em;
+    font-weight: normal;
   }
 
   .header__brackets {
     color: $color-green;
-    font-size: 8em;
-    line-height: 0.7em;
+    font-size: 4em;
+    font-weight: normal;
+  }
+
+  @keyframes move {
+    0% {
+      transform: translatey(-1vmin);
+    }
+    50% {
+      transform: translatey(4vmin);
+    }
+    100% {
+      transform: translatey(-1vmin);
+    }
   }
 }
 
