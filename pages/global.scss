@@ -166,6 +166,14 @@ main {
     li {
       padding: 0% 3% 0% 0%;
 
+      a {
+        &:hover {
+          -webkit-animation: glow 1s ease-in-out infinite alternate;
+          -moz-animation: glow 1s ease-in-out infinite alternate;
+          animation: glow 1s ease-in-out infinite alternate;
+        }
+      }
+
       p {
         background-color: $color-grey;
       }
@@ -245,10 +253,9 @@ img {
   a {
     text-decoration: dashed;
     color: $color-green;
-  }
-  h2 {
+
     &:hover {
-      color: $color-orange;
+      color: white;
     }
   }
   ul {
