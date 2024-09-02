@@ -2,6 +2,17 @@
 title: Open Brackets
 date: 2019-03-17T19:31:20.591Z
 news:
+  - name: "Queering AI lunchtime talk: Amina Abbas-Nazari"
+    description: The sounding of and listening to voices is increasingly mediated by
+      artificially intelligent machine listening and conversational systems
+      (such as Amazon's Alexa). These systems profile voices to surveil, analyse
+      and understand people in ways which are normative, over-simplistic and
+      ultimately harmful to those who are marginalised within society. In this
+      event, Amina Abbas-Nazari will present their PhD research that
+      investigates these issues and propose ways to reveal and resist voice
+      profiling in and by AI, through an expanded understanding of the sounding
+      of voice.
+    link: https://www.watershed.co.uk/studio/events/2024/09/27/lunchtime-talk-queering-ai-voice-profiling-and-resistance
   - description: We're running a series of 4 artist's workshops in 2024 and are
       looking to recruit a pool of paid attendees. If you're an artist,
       programmer, educator or citizen interested in building a queer tech
@@ -30,16 +41,5 @@ news:
       university/institutional spaces, tech spaces to create values for machine
       streams. This value creation was an interpretation of Dr Max Liboiron and
       the CLEAR Labs value creation and consensus making practice. "
-  - name: "Queering AI lunchtime talk: Amina Abbas-Nazari"
-    description: The sounding of and listening to voices is increasingly mediated by
-      artificially intelligent machine listening and conversational systems
-      (such as Amazon's Alexa). These systems profile voices to surveil, analyse
-      and understand people in ways which are normative, over-simplistic and
-      ultimately harmful to those who are marginalised within society. In this
-      event, Amina Abbas-Nazari will present their PhD research that
-      investigates these issues and propose ways to reveal and resist voice
-      profiling in and by AI, through an expanded understanding of the sounding
-      of voice.
-    link: https://www.watershed.co.uk/studio/events/2024/09/27/lunchtime-talk-queering-ai-voice-profiling-and-resistance
 ---
 A queer collective based in Bristol, UK, interested in building, subverting and hacking technology.
