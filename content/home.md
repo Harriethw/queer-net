@@ -2,6 +2,22 @@
 title: Open Brackets
 date: 2019-03-17T19:31:20.591Z
 news:
+  - name: "Fertile Grounds: A Conversation with Andrew Mallinson (Feminist Internet)
+      22/11/24"
+    description: >-
+      Queerness finds its centre within our cities — bodies together, meeting,
+      making, whose actions radiate outwards, drawing others in. Cities create a
+      framework for community, offering safety in numbers. But what of bodies
+      that exist outside the sanctuary of the city, of a queerness that tries to
+      sow its seeds in country fields?
+
+
+      Often, to be visibly queer in rural contexts is to exist at the margin — hyper-visible. The rural has its own centre, a rigid orthodoxy that rarely offers itself as fertile grounds for queerness. For many queer people in these communities, the screen becomes a means of escape, creating portals to our cities. Yet technology is more than a pathfinder; it offers the means of rendering the body anew, forming communities in virtual paradises.
+
+
+      Join us for a conversation on the relationship between queerness, the rural, and technology, hosted by Feminist Internet co-founder Andrew Mallinson. By looking to technology as a way of building bridges, we will question how we can de-centre queerness from our cities. Can we envision a model of queerness that thrives in the countryside? What might a rural framework for queerness look like?
+    link: https://hdfst.uk/e115183
+    thumbnail: /img/fg-poster-1.41x1.jpg
   - name: "Voice Profiling and Resistance: A Talk with Amina Abbas-Nazari 27/09/24"
     description: "The sounding of and listening to voices is increasingly mediated
       by artificially intelligent machine listening and conversational systems
@@ -53,21 +69,5 @@ news:
       university/institutional spaces, tech spaces to create values for machine
       streams. This value creation was an interpretation of Dr Max Liboiron and
       the CLEAR Labs value creation and consensus making practice. "
-  - name: "Fertile Grounds: A Conversation with Andrew Mallinson (Feminist Internet)
-      22/11/24"
-    description: >-
-      Queerness finds its centre within our cities — bodies together, meeting,
-      making, whose actions radiate outwards, drawing others in. Cities create a
-      framework for community, offering safety in numbers. But what of bodies
-      that exist outside the sanctuary of the city, of a queerness that tries to
-      sow its seeds in country fields?
-
-
-      Often, to be visibly queer in rural contexts is to exist at the margin — hyper-visible. The rural has its own centre, a rigid orthodoxy that rarely offers itself as fertile grounds for queerness. For many queer people in these communities, the screen becomes a means of escape, creating portals to our cities. Yet technology is more than a pathfinder; it offers the means of rendering the body anew, forming communities in virtual paradises.
-
-
-      Join us for a conversation on the relationship between queerness, the rural, and technology, hosted by Feminist Internet co-founder Andrew Mallinson. By looking to technology as a way of building bridges, we will question how we can de-centre queerness from our cities. Can we envision a model of queerness that thrives in the countryside? What might a rural framework for queerness look like?
-    link: https://hdfst.uk/e115183
-    thumbnail: /img/fg-poster-1.41x1.jpg
 ---
 A queer collective based in Bristol, UK, interested in building, subverting and hacking technology.
