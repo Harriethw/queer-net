@@ -41,7 +41,7 @@ news:
   - description: How has technology changed drag culture? Can we use AI to invent
       our own drag personas of the future? Join us for an evening of creativity
       at the Watershed's PM Studio, find out more here.
-    name: Drag and Drop, 19th March 2024
+    name: Drag and Drop Workshop, 19/03/24
     link: https://www.headfirstbristol.co.uk/#home
     thumbnail: img/e104630_i188212_s4.jpg
   - name: Queer Tech Meet Up X Future Speculations Reading Group 19/09/23
