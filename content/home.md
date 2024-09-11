@@ -41,5 +41,17 @@ news:
       university/institutional spaces, tech spaces to create values for machine
       streams. This value creation was an interpretation of Dr Max Liboiron and
       the CLEAR Labs value creation and consensus making practice. "
+  - name: "Cultus & AI Religiosity: A Talk with Zach Blas 14/05/24"
+    description: >+
+      We have invited Zach Blas is giving a talk at the Pervasive Media Studio
+      (14 June) as part of Queering AI. Zach will discuss his newest work
+      CULTUS, an immersive moving image installation that addresses a burgeoning
+      AI religiosity in the Californian tech industry.
+
+    link: https://youtu.be/z52stu5MioI?list=PLbP2rruaw4OvyHmG5tYtqgtJ67xIJ5rOf
+    thumbnail: /img/zachblas-image-installation-view-at-arebyte-gallery-london-uk-2023-photo-by-max-colson.jpg
+    altText: Installation view of dark room with red and blue lasers making up a
+      geometric shape, with a sculpture of a face on top of a pillar. At the
+      Arebyte gallery, London, UK (2023), photo by Max Colson
 ---
 A queer collective based in Bristol, UK, interested in building, subverting and hacking technology.
