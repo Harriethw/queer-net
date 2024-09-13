@@ -3,7 +3,7 @@ title: Open Brackets
 date: 2019-03-17T19:31:20.591Z
 news:
   - name: "Fertile Grounds: A Conversation with Andrew Mallinson (Feminist Internet)
-      22/11/24"
+      22/10/24"
     description: >-
       Queerness finds its centre within our cities — bodies together, meeting,
       making, whose actions radiate outwards, drawing others in. Cities create a
