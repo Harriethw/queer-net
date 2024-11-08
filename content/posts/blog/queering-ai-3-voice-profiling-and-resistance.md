@@ -8,9 +8,19 @@ previewText: "For our third workshop in late September we were joined by the
   designer, researcher and vocal performer Amina Abbas-Nazari to run a workshop
   on speculative voice and AI. "
 ---
+*We are running a programme of workshops this year around the theme of Queering AI - we have a cohort of queer participants who will be attending the workshops and sharing resources throughout the process.*
+
+*Together, we will explore dominant imaginaries of AI through queer creativity, and share tools to form queer connections with technology. At the end of the workshop series, we will produce a collective manifesto for queering AI.*
+
+*You can find a summary of our previous [workshop here](https://www.machine-streams.com/blog/post/queering-ai-1-getting-to-know-each-other-groundwork-and-strategies/).*
+
+## Voice, Profiling and Resistance
+
 For our third workshop in late September we were joined by the designer, researcher and vocal performer Amina Abbas-Nazari to run a workshop on speculative voice and AI. 
 
-Amina’s project Speculative Voicing is an ongoing investigation of sonic materiality in human and synthetic voice communication, especially in conjunction with AI and other emerging technologies. You can hear more about their research in the recording of this talk they gave as part of [Queering AI at the Pervasive Media Studio.](https://www.youtube.com/watch?v=2kR1FZO9mUM&list=PLbP2rruaw4OvyHmG5tYtqgtJ67xIJ5rOf&index=7)
+Amina’s project Speculative Voicing is an ongoing investigation of sonic materiality in human and synthetic voice communication, especially in conjunction with AI and other emerging technologies. 
+
+You can hear more about their research in the recording of this talk they gave as part of [Queering AI at the Pervasive Media Studio.](https://www.youtube.com/watch?v=2kR1FZO9mUM&list=PLbP2rruaw4OvyHmG5tYtqgtJ67xIJ5rOf&index=7)
 
 Amina took us through a workshop in which we discussed the concept of voice and how it can be changed and manipulated by technology, and then co-created an audio piece formed from our own vocal experiments. 
 
@@ -18,9 +28,15 @@ Amina took us through a workshop in which we discussed the concept of voice and 
 
 Amina gave a brief overview of their research into how AI uses the data extracted from voices to further the agenda of capitalism and the patriarchy, and how a queer or speculative voice might resist this extraction through diversity and co-creation.
 
-Amina shared a quote from Edward Kang - who posits that voice is a “fixed, extractable and measurable “sound object” located within the body.” That is how AI would like to see voice as well - as something objective, definitive and isolated. By flattening out “noise”, nuance or diversity from the voice, the technology can make better decisions on how to sell products, enforce systems and place people into data boxes. 
+> “fixed, extractable and measurable “sound object” located within the body.” - Edward Kang
 
-Amina wants to suggest a different meaning of voice - that sound and voice are co-created with the body, environment and other bodies around the speaker. A speculative way of understanding voice could be that it is polyphonic - humans have many voices, we speak differently depending on the role or circumstances. The voice is embodied, it moves through our flesh, bone and muscles. 
+We looked at the above representation of voice from Edward Kang and Amina suggested that this is how AI technology would like to see voice - as something objective, definitive and isolated. By flattening out “noise”, nuance or diversity from the voice, the technology can make better decisions on how to sell products, enforce systems and place people into data boxes. 
+
+Amina wants to suggest a different meaning of voice - that sound and voice are co-created with the body, environment and other bodies around the speaker. 
+
+![watercolour abstract shapes with the written words 'dyke navigation' meant to symbolize sound waves.](/img/pxl_20241104_144406241.jpg)
+
+A speculative way of understanding voice could be that it is polyphonic - humans have many voices, we speak differently depending on the role or circumstances. The voice is embodied, it moves through our flesh, bone and muscles. 
 
 Amina shared some research from IBM to understand how this organisation understands voice, and found that they see voice as - singular, fixed, stable, objective, knowable, in a vacuum, binary, normative. Whereas a “speculative voice” could be - sonic, multiple, co-created, subject, malleable, non-binary.
 
