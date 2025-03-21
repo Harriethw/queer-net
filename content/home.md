@@ -2,6 +2,9 @@
 title: Open Brackets
 date: 2019-03-17T19:31:20.591Z
 news:
+  - name: "Queering AI #4: Protocols of Queer Conduct"
+    link: https://www.machine-streams.com/blog/post/queering-ai-4-protocols-of-queer-conduct/
+    description: Read about our fourth workshop with artist and researcher Batool Desouky
   - name: "Fertile Grounds: A Conversation with Andrew Mallinson (Feminist Internet)
       22/10/24"
     description: >-
