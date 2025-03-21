@@ -7,18 +7,12 @@ news:
     description: Read about our fourth workshop with artist and researcher Batool Desouky
   - name: "Fertile Grounds: A Conversation with Andrew Mallinson (Feminist Internet)
       22/10/24"
-    description: >-
-      Queerness finds its centre within our cities — bodies together, meeting,
-      making, whose actions radiate outwards, drawing others in. Cities create a
-      framework for community, offering safety in numbers. But what of bodies
-      that exist outside the sanctuary of the city, of a queerness that tries to
-      sow its seeds in country fields?
-
-
-      Often, to be visibly queer in rural contexts is to exist at the margin — hyper-visible. The rural has its own centre, a rigid orthodoxy that rarely offers itself as fertile grounds for queerness. For many queer people in these communities, the screen becomes a means of escape, creating portals to our cities. Yet technology is more than a pathfinder; it offers the means of rendering the body anew, forming communities in virtual paradises.
-
-
-      Join us for a conversation on the relationship between queerness, the rural, and technology, hosted by Feminist Internet co-founder Andrew Mallinson. By looking to technology as a way of building bridges, we will question how we can de-centre queerness from our cities. Can we envision a model of queerness that thrives in the countryside? What might a rural framework for queerness look like?
+    description: Join us for a conversation on the relationship between queerness,
+      the rural, and technology, hosted by Feminist Internet co-founder Andrew
+      Mallinson. By looking to technology as a way of building bridges, we will
+      question how we can de-centre queerness from our cities. Can we envision a
+      model of queerness that thrives in the countryside? What might a rural
+      framework for queerness look like?
     link: https://hdfst.uk/e115183
     thumbnail: /img/fg-poster-1.41x1.jpg
   - name: "Voice Profiling and Resistance: A Talk with Amina Abbas-Nazari 27/09/24"
