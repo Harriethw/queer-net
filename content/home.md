@@ -2,6 +2,11 @@
 title: Open Brackets
 date: 2019-03-17T19:31:20.591Z
 news:
+  - name: Queer Phone
+    description: Read about our latest project - we're hosting a queer telephone server ☎️
+    link: https://www.machine-streams.com/blog/post/queer-phone/
+    thumbnail: /img/screenshot-2025-06-30-at-16.38.43.png
+    altText: a retro line drawing of someone on the phone and the text Queer Phone
   - name: "Queering AI #4: Protocols of Queer Conduct"
     link: https://www.machine-streams.com/blog/post/queering-ai-4-protocols-of-queer-conduct/
     description: Read about our fourth workshop with artist and researcher Batool Desouky
