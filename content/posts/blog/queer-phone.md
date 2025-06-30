@@ -15,6 +15,8 @@ These are questions we are seeking to answer with an ongoing DIY server/telephon
 
  <https://www.queerphone.com/>  (website design by the amazing Maks)
 
+![a screenshot of our website showing a pixelated nokia floatin on the screen and the text Call 0117 214 1269 in retro font](/img/screenshot-2025-06-30-at-17.30.43.png)
+
 You can call now (+44) 0117-214-1269 to speak to our Raspberry Pi server running in one of our living rooms - as of June 2025 we are hosting queer poetry and voice notes.
 
 We've also produced a zine if you would like to know how to start your own telephone project:
