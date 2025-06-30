@@ -11,7 +11,9 @@ previewText: Could a telephone line offer more intimate and meaningful ways of
 ---
 Could a telephone line offer more intimate and meaningful ways of communicating with our community as queer people?  Can we use audio to form new intimacies, express new stories and build resilient networks outside of the umbrella of Big Tech?
 
-These are questions we are seeking to answer with an ongoing DIY server/telephone project - Queer Phone. <https://www.queerphone.com/>  (website design by the amazing Maks)
+These are questions we are seeking to answer with an ongoing DIY server/telephone project - Queer Phone.
+
+ <https://www.queerphone.com/>  (website design by the amazing Maks)
 
 You can call now (+44) 0117-214-1269 to speak to our Raspberry Pi server running in one of our living rooms - as of June 2025 we are hosting queer poetry and voice notes.
 
