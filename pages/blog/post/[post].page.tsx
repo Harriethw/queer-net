@@ -42,7 +42,7 @@ function Post({ post }: PostProps) {
   return (
     <div className="page__background">
       <article className="blog__post">
-        <h1>{post.title}</h1>
+        <h2>{post.title}</h2>
         {post.thumbnail && (
           <img
             className="image--full"
