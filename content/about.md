@@ -15,6 +15,8 @@ Harriet Horobin-Worley (they/them) is a creative software engineer and artist- m
 
 Francesco Bentivegna (they/them) is an AI-voice artist and Lecturer in Digital Theatre at the University of Bristol.
 
-[machine streams community value statement](https://pad.constantvzw.org/p/machinestreamsvaluestatement)[](https://pad.constantvzw.org/p/machinestreamsvaluestatement)[](https://pad.constantvzw.org/p/machinestreamsvaluestatement)
+Maks Šeško (he/they) is a creative technologist and maker, specialising in immersive web experiences and tooling for interactive graphics.
 
-[](https://pad.constantvzw.org/p/machinestreamsvaluestatement)We are always interested in collaborating with other queers to explore technology- please get in touch machinestreams@protonmail.com[](https://pad.constantvzw.org/p/machinestreamsvaluestatement)
+[machine streams community value statement](https://pad.constantvzw.org/p/machinestreamsvaluestatement)
+
+We are always interested in collaborating with other queers to explore technology- please get in touch machinestreams@protonmail.com
