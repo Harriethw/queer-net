@@ -3,8 +3,8 @@ title: Feminist DevOps
 date: 2024-04-12T01:00:00.000Z
 previewText: Our February event was on the topic of feminist DevOps, with a talk
   from an experienced sysadmin, Julia Hawkes-Reed. We touched on some
-  wide-ranging themes of oppressive systems, design thinking and team values
-  that we think can apply to our daily work and life.
+  wide-ranging themes of oppressive systems and values that we think can apply
+  to our daily work and life.
 ---
 QueerTech Bristol is a monthly meetup for queers who work with/in/around or have a general interest in technology. Our February event was on the topic of feminist DevOps, with a talk from an experienced sysadmin, Julia Hawkes-Reed. We touched on some wide-ranging themes of oppressive systems, design thinking and team values that I think can apply to our daily work and life.
 
