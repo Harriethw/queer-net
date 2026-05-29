@@ -1,7 +1,7 @@
 ---
 title: Queer Phone
 date: 2025-06-30T16:36:00.000Z
-thumbnail: /img/screenshot-2025-06-30-at-16.38.43.png
+thumbnail: img/screenshot-2025-06-30-at-16.38.43.png
 altText: a retro line drawing of someone on the phone, and the text "why not
   call...Queer Phone"
 previewText: Could a telephone line offer more intimate and meaningful ways of
@@ -15,7 +15,7 @@ These are questions we are seeking to answer with an ongoing DIY server/telephon
 
  <https://www.queerphone.com/>  (website design by the amazing Maks Šeško)
 
-![a screenshot of our website showing a pixelated nokia floatin on the screen and the text Call 0117 214 1269 in retro font](/img/screenshot-2025-06-30-at-17.30.43.png)
+![a screenshot of our website showing a pixelated nokia floatin on the screen and the text Call 0117 214 1269 in retro font](img/screenshot-2025-06-30-at-17.30.43.png)
 
 You can call now (+44) 0117-214-1269 to speak to our Raspberry Pi server running in one of our living rooms - as of June 2025 we are hosting queer poetry and voice notes.
 

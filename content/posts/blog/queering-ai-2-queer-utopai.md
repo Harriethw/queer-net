@@ -1,7 +1,7 @@
 ---
 title: "Queering AI #2: Queer UtopAI"
 date: 2024-08-23T15:27:00.000Z
-thumbnail: /img/pxl_20240615_151426203.jpg
+thumbnail: img/pxl_20240615_151426203.jpg
 altText: a dream-like watercolour illustration of a garden with people gathered
   in it, made as a live illustration during a workshop to show the themes of our
   discussion
@@ -24,7 +24,7 @@ Firstly, we wanted to spark conversation about what utopia could mean for queer 
 
 A launch text for this was Muñoz’s Cruising Utopia. Queerness is "not simply a being but a doing for and toward the future" (Muñoz, Cruising Utopia 1). "Ultimately, we must insist on a queer futurity because the present is so poisonous and insolvent" (Muñoz, Cruising Utopia 30)
 
-![black text on a green background that says ""Ultimately, we must insist on a queer futurity because the present is so poisonous and insolvent" (Munoz, Cruising Utopia 30)."](/img/screenshot-2024-08-14-at-11.21.24.png)
+![black text on a green background that says ""Ultimately, we must insist on a queer futurity because the present is so poisonous and insolvent" (Munoz, Cruising Utopia 30)."](img/screenshot-2024-08-14-at-11.21.24.png)
 
 
 
@@ -44,7 +44,7 @@ Resources for this:
 * Olivia Ridings (No White Saviours founder)
 * Ibrahim Bahat - Pan-African Decolonial educator / African Historian
 
-![a slide with the text "Utopian visions drive societal change by sparking collective imagination and empathy, inspiring actions for a more equitable world.  Utopian visions are not mere daydreams, but they shaped thoughts, political visions, political presents and hopes."](/img/screenshot-2024-08-14-at-11.19.59.png)
+![a slide with the text "Utopian visions drive societal change by sparking collective imagination and empathy, inspiring actions for a more equitable world.  Utopian visions are not mere daydreams, but they shaped thoughts, political visions, political presents and hopes."](img/screenshot-2024-08-14-at-11.19.59.png)
 
 
 
@@ -70,11 +70,11 @@ When these ideas were fed into both an LLM and several text-to-image generators 
 
 The LLM struggled to speak in a non-corporate voice or grasp the subtleties of our concepts.  The images trended towards uncanny yet sexualised women, or generic “fantasy” like cityscapes. They particularly struggled with imagining new types of technology that didn’t mimic the shape of phones or computers. By showing us what we do not want in a queer utopia, it helped us to think more intricately about what we do want.  
 
-![an AI generated image of awhite man in a mask with some kind of wires coming out of his ear](/img/screenshot-2024-08-23-at-15.39.05.png "(Image generator responding to prompt: can you imagine an image depicting a technology that would enhance affect in a queer utopian society")
+![an AI generated image of awhite man in a mask with some kind of wires coming out of his ear](img/screenshot-2024-08-23-at-15.39.05.png "(Image generator responding to prompt: can you imagine an image depicting a technology that would enhance affect in a queer utopian society")
 
-![An AI generated image of rocky structures ascending out of trees](/img/screenshot-2024-08-23-at-15.39.14.png)
+![An AI generated image of rocky structures ascending out of trees](img/screenshot-2024-08-23-at-15.39.14.png)
 
-![an AI generated image of a grid of lots of made-up faces, with features distorted and blended together.](/img/screenshot-2024-08-23-at-15.39.20.png)
+![an AI generated image of a grid of lots of made-up faces, with features distorted and blended together.](img/screenshot-2024-08-23-at-15.39.20.png)
 
 From my perspective, the response from the AI revealed the nature of the “soup” that had fed it - mainstream patriarchal and capitalist culture. They are tools which respond to the money markets and the empire of Big Tech, not the collective needs of marginalised communities.  
 
@@ -82,6 +82,6 @@ From my perspective, the response from the AI revealed the nature of the “soup
 
 If the AI were trained on content from Queer, disabled, anti-racist, anti-capitalist, etc. culture, would it be able to provide content of more value? Is there a way to use AI that could serve our utopian ideals? Or is AI’s essential nature antithetical to our ideas of a queer utopia? We hope to interrogate this further in our upcoming workshops! 
 
-![a watercolour of multicoloured people and trees being together and phrases such as "collective imagination" and "liberation struggle" interspersed.](/img/pxl_20240615_151440859.jpg)
+![a watercolour of multicoloured people and trees being together and phrases such as "collective imagination" and "liberation struggle" interspersed.](img/pxl_20240615_151440859.jpg)
 
 Credit to the fabulous Carrot for our live illustrations which capture the mood of the day :) https://www.instagram.com/carr0000t

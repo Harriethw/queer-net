@@ -5,7 +5,7 @@ news:
   - name: Queer Phone
     description: Read about our latest project - we're hosting a queer telephone server ☎️
     link: https://www.machine-streams.com/blog/post/queer-phone/
-    thumbnail: /img/screenshot-2025-06-30-at-16.38.43.png
+    thumbnail: img/screenshot-2025-06-30-at-16.38.43.png
     altText: a retro line drawing of someone on the phone and the text Queer Phone
   - name: "Queering AI #4: Protocols of Queer Conduct"
     link: https://www.machine-streams.com/blog/post/queering-ai-4-protocols-of-queer-conduct/
@@ -19,7 +19,7 @@ news:
       model of queerness that thrives in the countryside? What might a rural
       framework for queerness look like?
     link: https://hdfst.uk/e115183
-    thumbnail: /img/fg-poster-1.41x1.jpg
+    thumbnail: img/fg-poster-1.41x1.jpg
   - name: "Voice Profiling and Resistance: A Talk with Amina Abbas-Nazari 27/09/24"
     description: "The sounding of and listening to voices is increasingly mediated
       by artificially intelligent machine listening and conversational systems
@@ -39,7 +39,7 @@ news:
       AI religiosity in the Californian tech industry.
 
     link: https://youtu.be/z52stu5MioI?list=PLbP2rruaw4OvyHmG5tYtqgtJ67xIJ5rOf
-    thumbnail: /img/zachblas-image-installation-view-at-arebyte-gallery-london-uk-2023-photo-by-max-colson.jpg
+    thumbnail: img/zachblas-image-installation-view-at-arebyte-gallery-london-uk-2023-photo-by-max-colson.jpg
     altText: Installation view of dark room with red and blue lasers making up a
       geometric shape, with a sculpture of a face on top of a pillar. At the
       Arebyte gallery, London, UK (2023), photo by Max Colson
