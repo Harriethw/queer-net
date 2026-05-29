@@ -13,6 +13,7 @@ module.exports = {
     return cfg;
   },
   output: "export",
+  basePath: "/queer-net",
   trailingSlash: true,
   pageExtensions: ["page.tsx", "page.ts", "page.jsx", "page.js", ".scss"],
 };

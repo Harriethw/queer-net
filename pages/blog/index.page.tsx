@@ -93,7 +93,7 @@ export function Blog({ posts }: BlogProps) {
         <img
           className="image__icon"
           alt="a small line drawing of friendly robot/humanoids"
-          src="img/illo_3.webp"
+          src="img/invert_3_glow.png"
         />
       </div>
     </div>
