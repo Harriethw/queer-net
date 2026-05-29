@@ -9,7 +9,7 @@ jest.mock(
       attributes: {
         title: "middle blog",
         date: "2024-03-25T15:23:07.354Z",
-        thumbnail: "/img/middle.png",
+        thumbnail: "img/middle.png",
       },
     };
   },
@@ -23,7 +23,7 @@ jest.mock(
       attributes: {
         title: "latest blog",
         date: "2024-04-25T10:23:07.354Z",
-        thumbnail: "/img/latest.png",
+        thumbnail: "img/latest.png",
       },
     };
   },
@@ -37,7 +37,7 @@ jest.mock(
       attributes: {
         title: "oldest blog",
         date: "2024-01-25T16:23:07.354Z",
-        thumbnail: "/img/oldest.png",
+        thumbnail: "img/oldest.png",
       },
     };
   },
@@ -97,21 +97,21 @@ describe("getStaticProps", () => {
       fileName: "latest-blog.md",
       pathParam: "latest-blog",
       date: "2024-04-25T10:23:07.354Z",
-      thumbnail: "/img/latest.png",
+      thumbnail: "img/latest.png",
     });
     expect(props.posts[1]).toEqual({
       title: "middle blog",
       fileName: "middle-blog.md",
       pathParam: "middle-blog",
       date: "2024-03-25T15:23:07.354Z",
-      thumbnail: "/img/middle.png",
+      thumbnail: "img/middle.png",
     });
     expect(props.posts[2]).toEqual({
       title: "oldest blog",
       fileName: "oldest-blog.md",
       pathParam: "oldest-blog",
       date: "2024-01-25T16:23:07.354Z",
-      thumbnail: "/img/oldest.png",
+      thumbnail: "img/oldest.png",
     });
   });
 });
