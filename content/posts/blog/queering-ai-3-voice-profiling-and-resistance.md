@@ -1,7 +1,7 @@
 ---
 title: "Queering AI #3: Voice, Profiling and Resistance"
 date: 2024-11-08T10:32:00.000Z
-thumbnail: img/pxl_20241104_144357212.jpg
+thumbnail: /img/pxl_20241104_144357212.jpg
 altText: the words 'Listen and tell' hand written on white paper, with abstract
   watercolours around it symbolising sound and conversation.
 previewText: "For our third workshop in late September we were joined by the
@@ -34,7 +34,7 @@ We looked at the above representation of voice from Edward Kang and Amina sugges
 
 Amina wants to suggest a different meaning of voice - that sound and voice are co-created with the body, environment and other bodies around the speaker. 
 
-![watercolour abstract shapes with the written words 'dyke navigation' meant to symbolize sound waves.](img/pxl_20241104_144406241.jpg)
+![watercolour abstract shapes with the written words 'dyke navigation' meant to symbolize sound waves.](/img/pxl_20241104_144406241.jpg)
 
 A speculative way of understanding voice could be that it is polyphonic - humans have many voices, we speak differently depending on the role or circumstances. The voice is embodied, it moves through our flesh, bone and muscles. 
 
@@ -44,7 +44,7 @@ We then watched a video about the unbounded potential of the human voice, featur
 
 Human voice has potential that is infinite, unpredictable and expansive, in a way that AI might never capture, and in this limitless we can find resistance. 
 
-![collaged squares with crayon drawing of audio software dials and knobs](img/pxl_20241104_144339197.jpg)
+![collaged squares with crayon drawing of audio software dials and knobs](/img/pxl_20241104_144339197.jpg)
 
 ## Playing and making
 
@@ -66,7 +66,7 @@ F - wanted a “dependable, solid Dyke voice”, for example to give directions 
 
 For the next part of the workshop, we performed as an ‘improv choir’, using our sounds to create a live performance together.
 
-![a sketch of two people with head phones on looking at their laptop](img/pxl_20241104_144312825.jpg)
+![a sketch of two people with head phones on looking at their laptop](/img/pxl_20241104_144312825.jpg)
 
 ## Reflection
 
@@ -74,6 +74,6 @@ This playful exercise highlighted the importance and emotional significance of v
 
 We also reflected on the potentially helpful uses of AI technology and voice - such as tools used to capture the voices of people with degenerative conditions, enabling those people to use their voice through technology after their own body cannot. Despite these potentially life-changing and truly helpful applications of AI, corporations are using it to profile, control and sell to people.
 
-![an almost abstract colourful watercolour sketch of people sitting at a table](img/pxl_20241104_144258049.jpg)
+![an almost abstract colourful watercolour sketch of people sitting at a table](/img/pxl_20241104_144258049.jpg)
 
 The fantastic live illustrations were done by Lucy Haslam <3 https://www.instagram.com/lucyjhaslam/?hl=en

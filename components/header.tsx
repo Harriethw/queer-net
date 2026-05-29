@@ -10,7 +10,7 @@ const Header = () => {
       <img
         className="image__icon"
         alt="a small line drawing of friendly robot/humanoids"
-        src="img/header_logo_glow.png"
+        src="/img/header_logo_glow.png"
       />
     </div>
   );

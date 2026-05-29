@@ -1,7 +1,7 @@
 ---
 title: "Call for Participants: Queering AI Workshop Series "
 date: 2024-04-12T14:49:00.000Z
-thumbnail: img/artboard-1-copy.png
+thumbnail: /img/artboard-1-copy.png
 altText: logo for the Queering AI workshop series, a nineties techno vibe
 ---
 **\*\* deadline for this has now passed**

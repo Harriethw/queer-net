@@ -26,4 +26,4 @@ You can explore the workshops, conversations and artistic responses through the 
 
 
 
-![Photo of a group of around ten queers sat around a table imagining and co-creating a VTuber in a darker theatre with a screen at the back with a transcript of the workshop. In front there is a table with art materials and glasses. ](img/zine.png "Workshop Group Imagining a VTuber ")
+![Photo of a group of around ten queers sat around a table imagining and co-creating a VTuber in a darker theatre with a screen at the back with a transcript of the workshop. In front there is a table with art materials and glasses. ](/img/zine.png "Workshop Group Imagining a VTuber ")

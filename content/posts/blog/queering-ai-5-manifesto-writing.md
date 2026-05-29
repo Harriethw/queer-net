@@ -1,7 +1,7 @@
 ---
 title: "Queering AI #5: Manifesto writing!"
 date: 2025-03-21T14:26:00.000Z
-thumbnail: img/queering-ai-manifesto-2-1-.jpg
+thumbnail: /img/queering-ai-manifesto-2-1-.jpg
 altText: colourful scraps of paper with sketches and writing on them relating to
   the themes of this blog post, such as Data privacy, education, and workers
   rights.
@@ -79,7 +79,7 @@ It was a really great way to just get a sense of the sheer scale and many, many 
 
 
 
-![a diagram with colourful circles, and rectangles linked by arrows, showing how AI is linked to ghost workers, repetitive tasks, and climate change](img/screenshot-2025-03-21-at-14.33.22.png)
+![a diagram with colourful circles, and rectangles linked by arrows, showing how AI is linked to ghost workers, repetitive tasks, and climate change](/img/screenshot-2025-03-21-at-14.33.22.png)
 
 
 
@@ -115,4 +115,4 @@ We want the manifesto to both be a provocation and a toolkit if possible. We’d
 
 
 
-![scraps of colourful paper with drawings and writing on them showing a laptop and then ideas touched on is this blog post, such as "where does the data come from?"](img/queering-ai-manifesto-1-1-.jpg)
+![scraps of colourful paper with drawings and writing on them showing a laptop and then ideas touched on is this blog post, such as "where does the data come from?"](/img/queering-ai-manifesto-1-1-.jpg)

@@ -21,7 +21,7 @@ Codes of conduct are similar to protocols, but they are more of a collaborative 
 
 Together we looked at a few codes of conduct that Batool shared - including OpenAI’s Supplier Code of Conduct, and code of conducts and contributor guidelines for open source software.
 
-![a screenshot of OpenAi's Supplier Code of Conduct, showing an intro paragraph that can be found at openai.com/policies/supplier-code/](img/screenshot-2025-03-21-at-14.20.31.png)
+![a screenshot of OpenAi's Supplier Code of Conduct, showing an intro paragraph that can be found at openai.com/policies/supplier-code/](/img/screenshot-2025-03-21-at-14.20.31.png)
 
 We discussed how many of these documents speak to valuing equity and diversity, but Batool encouraged us to question how often these values are reflected in the realities of the organisations. Does the Code of Conduct itself almost preclude any further work or thought on behalf of these organisations? Are they empty gestures, “a palliative bandage”, to signal a certain workplace or community culture, and if so is that necessarily a bad thing?
 
@@ -39,7 +39,7 @@ We used the Queering Damage generative protocols as a loose framework to apply t
 
 <https://snelting.domainepublic.net/wp-content/uploads/QueeringDamage.pdf>
 
-![red text on a white background of lots of different wingdings style symbols and the words "Queering Damage", a screenshot from the Queering Damage PDF](img/screenshot-2025-03-21-at-14.20.16.png)
+![red text on a white background of lots of different wingdings style symbols and the words "Queering Damage", a screenshot from the Queering Damage PDF](/img/screenshot-2025-03-21-at-14.20.16.png)
 
 Some highlights were:
 

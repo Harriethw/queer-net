@@ -1,7 +1,7 @@
 ---
 title: "Queering AI #1 - Getting to know each other, groundwork and strategies"
 date: 2024-05-16T16:24:00.000Z
-thumbnail: img/pxl_20240504_110747808.jpg
+thumbnail: /img/pxl_20240504_110747808.jpg
 altText: people standing in a circle with a luggage tag on a string connecting them all
 previewText: "Saturday 4th May was our first official meeting, on a lovely sunny
   day in Bristol. As many of us had never met, we wanted our first session to
@@ -30,7 +30,7 @@ Our feature artist was Chloe Meineck- an artist, co-designer, community builder 
 
 Chloe suggested an initial exercise to help break the ice and help us discover and visualise the complex web of connections between us. Here’s how we ran it:
 
-![a luggage tag connected to two people (who's faces are out of frame) by pieces of string](img/pxl_20240504_110909395.mp.jpg)
+![a luggage tag connected to two people (who's faces are out of frame) by pieces of string](/img/pxl_20240504_110909395.mp.jpg)
 
 ### Luggage Tag Exercise
 
